@@ -7,6 +7,9 @@ import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
 import DesignImg from "./DesignImg";
+import Py4Android from "./Py4Android";
+import Micropython from "./Micropython";
+import Telematics from "./Telematics";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
@@ -15,6 +18,12 @@ function GetSkillSvg(props) {
     return <FullStackImg theme={props.theme} />;
   else if (props.fileName === "CloudInfraImg")
     return <CloudInfraImg theme={props.theme} />;
+  else if (props.fileName === "Py4Android")
+    return <Py4Android theme={props.theme} />;
+  else if (props.fileName === "Micropython")
+    return <Micropython theme={props.theme} />;
+  else if (props.fileName === "Telematics")
+    return <Telematics theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 
