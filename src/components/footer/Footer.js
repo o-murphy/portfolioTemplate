@@ -12,6 +12,14 @@ export default function Footer(props) {
           Made with <span role="img">❤️</span> by {greeting.title}
         </p>
         {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle}/> */}
+        <p
+          className="footer-copyright-text"
+          style={{ color: props.theme.secondaryText }}
+        >
+          <a href="https://storyset.com/idea">
+            © Idea illustrations by Storyset
+          </a>
+        </p>
       </Fade>
     </div>
   );

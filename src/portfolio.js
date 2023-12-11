@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.", // FIXME
   // resumeLink:    // FIXME
   // "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/o-murphy/masterPortfolio",
+  portfolio_repository: "https://github.com/o-murphy",
   githubProfile: "https://github.com/o-murphy",
 };
 
@@ -81,6 +81,19 @@ const socialMediaLinks = [
     link: "https://www.instagram.com/_o_murphy_/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Soundcloud",
+    link: "https://soundcloud.com/murphythebastard",
+    fontAwesomeIcon: "fa-soundcloud", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#F26F23", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Spotify",
+    link:
+      "https://open.spotify.com/artist/5MMonfU5cEE3wKrAmIUmoi?si=1og0gXxwRVq9XjlJhZYZKw",
+    fontAwesomeIcon: "fa-spotify", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#1ED760", // Reference https://simpleicons.org/?q=instagram
   },
   // {
   //   name: "X-Twitter",
@@ -171,10 +184,10 @@ const skills = {
       ],
     },
     {
-      title: "RESTfull with Python", // FIXME
+      title: "Cloud Services", // FIXME
       fileName: "FullStackImg",
       skills: [
-        "⚡ Creating application backend in Django & Flask",
+        "⚡ Creating application backend with Django & Flask",
         "⚡ Building an architecture of a web service's with RESTfull API",
       ],
       softwareSkills: [
@@ -192,6 +205,13 @@ const skills = {
         {
           skillName: "Flask",
           fontAwesomeClassname: "skill-icons:flask-light",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "skill-icons:docker",
           style: {
             color: "#E34F26",
           },
@@ -273,7 +293,7 @@ const skills = {
       ],
     },
     {
-      title: "GPS monitoring, telematics and fleet management",
+      title: "GPS Monitoring, Telematics and Fleet Management",
       fileName: "Telematics", // FIXME
       skills: [
         "",
@@ -500,14 +520,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    //   subtitle:  "", // "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    //   locality: "Kanodar",
-    //   country: "IN",
-    //   region: "Gujarat",
-    //   postalCode: "385520",
-    //   streetAddress: "Ambavadi vas",
-    //   avatar_image_path: "address_image.svg",
-    //   location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    //   //   subtitle:  "", // "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+    //   //   locality: "Kanodar",
+    //   //   country: "IN",
+    //   //   region: "Gujarat",
+    //   //   postalCode: "385520",
+    //   //   streetAddress: "Ambavadi vas",
+    avatar_image_path: "address_image.svg",
+    //   //   location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "",

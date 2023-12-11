@@ -1,7 +1,1939 @@
 {
-  "closed": 33,
-  "data": [],
-  "merged": 54,
-  "open": 13,
-  "totalCount": 100
+  "closed": 11,
+  "data": [
+    {
+      "id": "PR_kwDOEVbSas5gqwx7",
+      "title": "today highlights (#5)",
+      "url": "https://github.com/noXplode/aiogram_calendar/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+        "url": "https://github.com/noXplode",
+        "login": "noXplode"
+      },
+      "createdAt": "2023-11-29T13:13:36Z",
+      "number": 16,
+      "changedFiles": 4,
+      "additions": 159,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "login": "noXplode",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIj1r-s5gqwfO",
+      "title": "today highlights",
+      "url": "https://github.com/o-murphy/aiogram3_calendar/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-29T13:12:50Z",
+      "number": 5,
+      "changedFiles": 3,
+      "additions": 79,
+      "deletions": 19,
+      "baseRepository": {
+        "name": "aiogram3_calendar",
+        "url": "https://github.com/o-murphy/aiogram3_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5gBMKr",
+      "title": "Ota",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-21T13:00:54Z",
+      "number": 8,
+      "changedFiles": 12,
+      "additions": 494,
+      "deletions": 85,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5f7xKW",
+      "title": "Ota",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-20T17:06:35Z",
+      "number": 7,
+      "changedFiles": 7,
+      "additions": 278,
+      "deletions": 13,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fxVR_",
+      "title": "Fix drawing",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-17T16:30:36Z",
+      "number": 6,
+      "changedFiles": 4,
+      "additions": 136,
+      "deletions": 115,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fvbYU",
+      "title": "Font change",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/5",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-11-17T11:51:17Z",
+      "number": 5,
+      "changedFiles": 19,
+      "additions": 1919,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fvbOb",
+      "title": "Refactor",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-17T11:50:47Z",
+      "number": 4,
+      "changedFiles": 19,
+      "additions": 255,
+      "deletions": 747,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fvbDd",
+      "title": "Refactor2",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-17T11:50:14Z",
+      "number": 3,
+      "changedFiles": 6,
+      "additions": 252,
+      "deletions": 120,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fpi6H",
+      "title": "Esp32 tester",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-16T16:11:10Z",
+      "number": 2,
+      "changedFiles": 13,
+      "additions": 903,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKtR8eM5fhwxq",
+      "title": "Update",
+      "url": "https://github.com/o-murphy/infiray-lrf/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-15T14:51:52Z",
+      "number": 1,
+      "changedFiles": 11,
+      "additions": 931,
+      "deletions": 133,
+      "baseRepository": {
+        "name": "infiray-lrf",
+        "url": "https://github.com/o-murphy/infiray-lrf",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJqOIXc5fU2c9",
+      "title": "update",
+      "url": "https://github.com/o-murphy/pydfuutil/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-13T17:42:41Z",
+      "number": 4,
+      "changedFiles": 9,
+      "additions": 317,
+      "deletions": 83,
+      "baseRepository": {
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJqOIXc5fNa8o",
+      "title": "v0.0.1b2",
+      "url": "https://github.com/o-murphy/pydfuutil/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-11T11:32:15Z",
+      "number": 3,
+      "changedFiles": 17,
+      "additions": 683,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJqOIXc5fKKg2",
+      "title": "* updated dfu_file.py",
+      "url": "https://github.com/o-murphy/pydfuutil/pull/2",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-11-10T16:30:11Z",
+      "number": 2,
+      "changedFiles": 17,
+      "additions": 683,
+      "deletions": 30,
+      "baseRepository": {
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285fFaz6",
+      "title": "V1.1.1b0",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/39",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-09T23:10:07Z",
+      "number": 39,
+      "changedFiles": 14,
+      "additions": 701,
+      "deletions": 116,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIj1r-s5e7pld",
+      "title": "removed unused references",
+      "url": "https://github.com/o-murphy/aiogram3_calendar/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-08T14:04:15Z",
+      "number": 4,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "aiogram3_calendar",
+        "url": "https://github.com/o-murphy/aiogram3_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIj1r-s5e7Zp8",
+      "title": "Create python-package.yml",
+      "url": "https://github.com/o-murphy/aiogram3_calendar/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-08T13:27:24Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 29,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "aiogram3_calendar",
+        "url": "https://github.com/o-murphy/aiogram3_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIj1r-s5e7TOU",
+      "title": "Added pylint.yml",
+      "url": "https://github.com/o-murphy/aiogram3_calendar/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-08T13:13:38Z",
+      "number": 2,
+      "changedFiles": 4,
+      "additions": 29,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "aiogram3_calendar",
+        "url": "https://github.com/o-murphy/aiogram3_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEVbSas5e7Sss",
+      "title": "Added pylint.yml",
+      "url": "https://github.com/noXplode/aiogram_calendar/pull/12",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-11-08T13:12:16Z",
+      "number": 12,
+      "changedFiles": 23,
+      "additions": 1298,
+      "deletions": 436,
+      "baseRepository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "login": "noXplode",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKiU4yM5e1NO6",
+      "title": "calculator init",
+      "url": "https://github.com/o-murphy/py-balcalc/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-07T16:59:08Z",
+      "number": 1,
+      "changedFiles": 17,
+      "additions": 630,
+      "deletions": 271,
+      "baseRepository": {
+        "name": "py-balcalc",
+        "url": "https://github.com/o-murphy/py-balcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5exTqO",
+      "title": "Dependencies fix",
+      "url": "https://github.com/o-murphy/a7p/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-07T06:57:54Z",
+      "number": 7,
+      "changedFiles": 2,
+      "additions": 12,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5euD5R",
+      "title": "dependencies fix",
+      "url": "https://github.com/o-murphy/a7p/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-06T17:54:35Z",
+      "number": 6,
+      "changedFiles": 4,
+      "additions": 6,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5et0ot",
+      "title": "URLs updated",
+      "url": "https://github.com/o-murphy/a7p/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-06T17:20:27Z",
+      "number": 4,
+      "changedFiles": 23,
+      "additions": 1398,
+      "deletions": 149,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ-B4V85etzXu",
+      "title": "python package a7p updated to v0.0.6",
+      "url": "https://github.com/JAremko/a7p_transfer_example/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-11-06T17:17:00Z",
+      "number": 5,
+      "changedFiles": 15,
+      "additions": 11,
+      "deletions": 573,
+      "baseRepository": {
+        "name": "a7p_transfer_example",
+        "url": "https://github.com/JAremko/a7p_transfer_example",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5etnC0",
+      "title": "v0.0.6, protovalidate added",
+      "url": "https://github.com/o-murphy/a7p/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-11-06T16:48:43Z",
+      "number": 3,
+      "changedFiles": 21,
+      "additions": 1393,
+      "deletions": 144,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJqOIXc5dKnYs",
+      "title": "updated workflows",
+      "url": "https://github.com/o-murphy/pydfuutil/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-18T16:43:21Z",
+      "number": 1,
+      "changedFiles": 2,
+      "additions": 2,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOAKk9Es5dJ-rP",
+      "title": "Asyncio way to got the same functionality, and some extra",
+      "url": "https://github.com/wialon/python-wialon/pull/21",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-18T15:21:35Z",
+      "number": 21,
+      "changedFiles": 6,
+      "additions": 432,
+      "deletions": 253,
+      "baseRepository": {
+        "name": "python-wialon",
+        "url": "https://github.com/wialon/python-wialon",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4903778?u=370d1aa66c6485c16c84bf9abf95ad1ae9c68a32&v=4",
+          "login": "wialon",
+          "url": "https://github.com/wialon"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285dIxgV",
+      "title": "Cython optional",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/29",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-18T12:42:40Z",
+      "number": 29,
+      "changedFiles": 36,
+      "additions": 601,
+      "deletions": 168,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285dCj4e",
+      "title": "Python3.12-support-tests",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/28",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-17T16:47:28Z",
+      "number": 28,
+      "changedFiles": 13,
+      "additions": 242,
+      "deletions": 127,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285dA7x-",
+      "title": "* added pure python mode support",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-17T12:59:06Z",
+      "number": 25,
+      "changedFiles": 9,
+      "additions": 236,
+      "deletions": 121,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285dAEYR",
+      "title": "Danger space review",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-17T10:44:53Z",
+      "number": 24,
+      "changedFiles": 11,
+      "additions": 609,
+      "deletions": 529,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285dAB6Z",
+      "title": "Danger space added",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/23",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-17T10:38:31Z",
+      "number": 23,
+      "changedFiles": 11,
+      "additions": 570,
+      "deletions": 523,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJoVqls5c-zOZ",
+      "title": "hyperlink fix",
+      "url": "https://github.com/JAremko/ArcherBC2/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-17T07:31:56Z",
+      "number": 44,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJoVqls5c-ve7",
+      "title": "updated docs",
+      "url": "https://github.com/JAremko/ArcherBC2/pull/43",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-10-17T07:21:44Z",
+      "number": 43,
+      "changedFiles": 8,
+      "additions": 24,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJoVqls5c6iH5",
+      "title": "Added user guide to the app (english)",
+      "url": "https://github.com/JAremko/ArcherBC2/pull/37",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-10-16T15:18:24Z",
+      "number": 37,
+      "changedFiles": 29,
+      "additions": 188,
+      "deletions": 86,
+      "baseRepository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJoVqls5c5_Z7",
+      "title": "Added user guide to the app (ukrainian)",
+      "url": "https://github.com/JAremko/ArcherBC2/pull/36",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-10-16T14:20:27Z",
+      "number": 36,
+      "changedFiles": 45,
+      "additions": 249,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285ct7gy",
+      "title": "Interface remake",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-13T09:03:20Z",
+      "number": 20,
+      "changedFiles": 20,
+      "additions": 945,
+      "deletions": 312,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285ctxZt",
+      "title": "Interface remake",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-13T08:32:31Z",
+      "number": 19,
+      "changedFiles": 14,
+      "additions": 781,
+      "deletions": 232,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285ctv6O",
+      "title": "Interface remake1",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-13T08:27:56Z",
+      "number": 18,
+      "changedFiles": 7,
+      "additions": 188,
+      "deletions": 107,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKGHQAc5cpDUX",
+      "title": " ordering weapon attributes ",
+      "url": "https://github.com/dbookstaber/py_ballistics/pull/4",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-12T14:30:14Z",
+      "number": 4,
+      "changedFiles": 16,
+      "additions": 794,
+      "deletions": 251,
+      "baseRepository": {
+        "name": "py_ballistics",
+        "url": "https://github.com/dbookstaber/py_ballistics",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99043839?u=d29c4bb078466402323da642463ee3096936c841&v=4",
+          "login": "dbookstaber",
+          "url": "https://github.com/dbookstaber"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKGHQAc5cpAO7",
+      "title": "Danger space",
+      "url": "https://github.com/dbookstaber/py_ballistics/pull/3",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-12T14:23:29Z",
+      "number": 3,
+      "changedFiles": 5,
+      "additions": 10,
+      "deletions": 15,
+      "baseRepository": {
+        "name": "py_ballistics",
+        "url": "https://github.com/dbookstaber/py_ballistics",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/99043839?u=d29c4bb078466402323da642463ee3096936c841&v=4",
+          "login": "dbookstaber",
+          "url": "https://github.com/dbookstaber"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285ciki1",
+      "title": "Update issue templates",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/16",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-11T16:42:15Z",
+      "number": 16,
+      "changedFiles": 1,
+      "additions": 32,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5cYzOD",
+      "title": "Gallery updates",
+      "url": "https://github.com/o-murphy/a7p/pull/2",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-10T13:48:13Z",
+      "number": 2,
+      "changedFiles": 507,
+      "additions": 8594,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285cV2eb",
+      "title": "Zero elevation",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/15",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-10T07:13:04Z",
+      "number": 15,
+      "changedFiles": 14,
+      "additions": 248,
+      "deletions": 152,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285cAuwL",
+      "title": "Added deploy workflows",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/13",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-05T13:32:27Z",
+      "number": 13,
+      "changedFiles": 4,
+      "additions": 35,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285cAQyQ",
+      "title": "Create test.yml",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-05T12:27:37Z",
+      "number": 12,
+      "changedFiles": 1,
+      "additions": 57,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285b_km2",
+      "title": "Resolved conflicts with master",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-05T10:37:50Z",
+      "number": 11,
+      "changedFiles": 18,
+      "additions": 451,
+      "deletions": 304,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285b_hs-",
+      "title": "Refactor",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/10",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-10-05T10:30:57Z",
+      "number": 10,
+      "changedFiles": 48,
+      "additions": 3808,
+      "deletions": 3560,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285b2J2g",
+      "title": "update to v1.1.x",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-04T00:40:38Z",
+      "number": 7,
+      "changedFiles": 48,
+      "additions": 3661,
+      "deletions": 3560,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285b2JaA",
+      "title": "added workflows",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-04T00:38:00Z",
+      "number": 6,
+      "changedFiles": 18,
+      "additions": 1215,
+      "deletions": 444,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285b0ZZo",
+      "title": "improved performance",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-10-03T18:05:04Z",
+      "number": 5,
+      "changedFiles": 10,
+      "additions": 216,
+      "deletions": 254,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285bKm0L",
+      "title": "updated tests",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-25T20:57:14Z",
+      "number": 4,
+      "changedFiles": 5,
+      "additions": 47,
+      "deletions": 399,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285bKhbk",
+      "title": "Created main intefaces, globall settings class and powder sencitivity correction support",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-25T20:38:03Z",
+      "number": 3,
+      "changedFiles": 18,
+      "additions": 452,
+      "deletions": 272,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOHjeS285bBib2",
+      "title": "Refactoring",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-22T21:18:17Z",
+      "number": 2,
+      "changedFiles": 16,
+      "additions": 350,
+      "deletions": 276,
+      "baseRepository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKNavAc5aVYcI",
+      "title": "v0.0.5",
+      "url": "https://github.com/o-murphy/a7p/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-14T11:46:13Z",
+      "number": 1,
+      "changedFiles": 506,
+      "additions": 8591,
+      "deletions": 57,
+      "baseRepository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJhwPTc5aVNWv",
+      "title": "0.1.1b2",
+      "url": "https://github.com/o-murphy/archerdfu/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-14T11:13:30Z",
+      "number": 1,
+      "changedFiles": 14,
+      "additions": 742,
+      "deletions": 538,
+      "baseRepository": {
+        "name": "archerdfu",
+        "url": "https://github.com/o-murphy/archerdfu",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Z9cfQ",
+      "title": "v0.0.34-beta-build-168",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/26",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-10T20:54:21Z",
+      "number": 26,
+      "changedFiles": 91,
+      "additions": 6873,
+      "deletions": 1194,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Z6vYY",
+      "title": "v0.0.33-beta-build-166 improved performance",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/25",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-08T22:30:27Z",
+      "number": 25,
+      "changedFiles": 10,
+      "additions": 180,
+      "deletions": 134,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Zy05U",
+      "title": "Playing with buildtools",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-07T15:21:27Z",
+      "number": 24,
+      "changedFiles": 3,
+      "additions": 3,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5ZylMX",
+      "title": "Playing with buildtools",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/23",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-07T14:39:19Z",
+      "number": 23,
+      "changedFiles": 14,
+      "additions": 831,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Zv9HY",
+      "title": "Create build-ubuntu.yml",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/22",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-07T07:21:01Z",
+      "number": 22,
+      "changedFiles": 1,
+      "additions": 51,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5ZjR_B",
+      "title": "droid db backup / pyinstaller build",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/21",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-05T09:04:53Z",
+      "number": 21,
+      "changedFiles": 50,
+      "additions": 335,
+      "deletions": 299,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Zg8k7",
+      "title": "Kivymd pyinstaller.spec",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/20",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-04T20:38:07Z",
+      "number": 20,
+      "changedFiles": 4,
+      "additions": 106,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5ZggmE",
+      "title": "Share via android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/19",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-04T18:08:46Z",
+      "number": 19,
+      "changedFiles": 7,
+      "additions": 150,
+      "deletions": 60,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Zel6U",
+      "title": "Py ballisticcalc test",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/18",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-09-04T12:16:01Z",
+      "number": 18,
+      "changedFiles": 18,
+      "additions": 353,
+      "deletions": 116,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Zelrn",
+      "title": "Test sqlalchemy support",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/17",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-09-04T12:15:22Z",
+      "number": 17,
+      "changedFiles": 71,
+      "additions": 67,
+      "deletions": 7273,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ-B4V85ZUnFr",
+      "title": "python package a7p updated to v0.0.3",
+      "url": "https://github.com/JAremko/a7p_transfer_example/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-09-01T09:42:33Z",
+      "number": 2,
+      "changedFiles": 9,
+      "additions": 374,
+      "deletions": 7,
+      "baseRepository": {
+        "name": "a7p_transfer_example",
+        "url": "https://github.com/JAremko/a7p_transfer_example",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ-B4V85X4y5g",
+      "title": "Added python3 wrapper for .a7p files",
+      "url": "https://github.com/JAremko/a7p_transfer_example/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+        "url": "https://github.com/JAremko",
+        "login": "JAremko"
+      },
+      "createdAt": "2023-08-14T14:13:16Z",
+      "number": 1,
+      "changedFiles": 10,
+      "additions": 945,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "a7p_transfer_example",
+        "url": "https://github.com/JAremko/a7p_transfer_example",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "login": "JAremko",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xwm-E",
+      "title": "temporary refactoring",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T21:19:23Z",
+      "number": 12,
+      "changedFiles": 3,
+      "additions": 14,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5XvNnw",
+      "title": "Update test_build_android.yml",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T15:27:37Z",
+      "number": 11,
+      "changedFiles": 5,
+      "additions": 149,
+      "deletions": 142,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xu_fJ",
+      "title": "Autobuild android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T14:55:28Z",
+      "number": 10,
+      "changedFiles": 15,
+      "additions": 603,
+      "deletions": 449,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xt5NE",
+      "title": "Autobuild android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T11:16:24Z",
+      "number": 9,
+      "changedFiles": 12,
+      "additions": 431,
+      "deletions": 71,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5XszW-",
+      "title": "Autobuild android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T07:19:54Z",
+      "number": 8,
+      "changedFiles": 3,
+      "additions": 17,
+      "deletions": 22,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xsjbz",
+      "title": "Autobuild android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-11T06:16:44Z",
+      "number": 7,
+      "changedFiles": 3,
+      "additions": 94,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5XrBza",
+      "title": "downgrade python version",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-10T19:51:15Z",
+      "number": 6,
+      "changedFiles": 9,
+      "additions": 18,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xp6jd",
+      "title": "update autobuild",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-10T15:58:15Z",
+      "number": 4,
+      "changedFiles": 2,
+      "additions": 0,
+      "deletions": 405,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5Xpxu-",
+      "title": "Autobuild android",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-10T15:32:30Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 7,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5XpenN",
+      "title": "Create main.yml",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-10T14:49:22Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 46,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJ90I5s5XpO90",
+      "title": "Create main.yml",
+      "url": "https://github.com/o-murphy/eballistica_app/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+        "url": "https://github.com/o-murphy",
+        "login": "o-murphy"
+      },
+      "createdAt": "2023-08-10T14:11:52Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 46,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "login": "o-murphy",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOEVbSas5EXOtk",
+      "title": "aiogram 3 compatible version",
+      "url": "https://github.com/noXplode/aiogram_calendar/pull/7",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-12-05T16:25:14Z",
+      "number": 7,
+      "changedFiles": 25,
+      "additions": 1364,
+      "deletions": 440,
+      "baseRepository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "login": "noXplode",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    }
+  ],
+  "merged": 68,
+  "open": 0,
+  "totalCount": 79
 }

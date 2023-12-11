@@ -1,6 +1,1815 @@
 {
   "closed": 47,
-  "data": [],
-  "open": 11,
-  "totalCount": 58
+  "data": [
+    {
+      "id": "I_kwDOEVbSas54Pkaw",
+      "closed": false,
+      "title": "[enchantment] Select first day of week",
+      "createdAt": "2023-11-29T20:14:51Z",
+      "url": "https://github.com/noXplode/aiogram_calendar/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "login": "noXplode",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEVbSas54NrUY",
+      "closed": false,
+      "title": "[enchantment] WebApp based date-picker variant  ",
+      "createdAt": "2023-11-29T15:29:45Z",
+      "url": "https://github.com/noXplode/aiogram_calendar/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "login": "noXplode",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEVbSas54MIrw",
+      "closed": false,
+      "title": "[enchantment] Range of available dates",
+      "createdAt": "2023-11-29T12:09:06Z",
+      "url": "https://github.com/noXplode/aiogram_calendar/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "login": "noXplode",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOG1Nw0s53m7Ws",
+      "closed": false,
+      "title": "LilyGo T-Display-S3 micropython + lvgl",
+      "createdAt": "2023-11-22T16:19:51Z",
+      "url": "https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "lilygo-micropython",
+        "url": "https://github.com/Xinyuan-LilyGO/lilygo-micropython",
+        "owner": {
+          "login": "Xinyuan-LilyGO",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/46522448?v=4",
+          "url": "https://github.com/Xinyuan-LilyGO"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEVbSas53RbSD",
+      "closed": true,
+      "title": "[enchantment] Localisation",
+      "createdAt": "2023-11-19T21:56:47Z",
+      "url": "https://github.com/noXplode/aiogram_calendar/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "login": "noXplode",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKmMTac526VyF",
+      "closed": false,
+      "title": "Оновлення протоколу налаштування приладів",
+      "createdAt": "2023-11-15T15:28:10Z",
+      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
+            "name": null,
+            "url": "https://github.com/Galaichuk"
+          }
+        ]
+      },
+      "repository": {
+        "name": "TMA-TGX-china",
+        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOIF5yZs52vr-6",
+      "closed": false,
+      "title": "[QUESTION] Where can we get the software for that project?",
+      "createdAt": "2023-11-14T08:17:08Z",
+      "url": "https://github.com/antmicro/cvbs-mipi-bridge/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cvbs-mipi-bridge",
+        "url": "https://github.com/antmicro/cvbs-mipi-bridge",
+        "owner": {
+          "login": "antmicro",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/927785?v=4",
+          "url": "https://github.com/antmicro"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc52k2eN",
+      "closed": true,
+      "title": "archer-ar612-cfg-v1.0.0b3",
+      "createdAt": "2023-11-12T11:59:28Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls52No9U",
+      "closed": false,
+      "title": "documentation translation fix",
+      "createdAt": "2023-11-08T10:34:18Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/59",
+      "number": 59,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+            "name": "Dmytro Yaroshenko",
+            "url": "https://github.com/o-murphy"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKNavAc52AA8x",
+      "closed": true,
+      "title": "Wrong dependencies",
+      "createdAt": "2023-11-06T17:48:23Z",
+      "url": "https://github.com/o-murphy/a7p/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJqT2Fc51_Fae",
+      "closed": true,
+      "title": "[BUG] ImportError on import buf/validate",
+      "createdAt": "2023-11-06T15:46:26Z",
+      "url": "https://github.com/bufbuild/protovalidate-python/issues/96",
+      "number": 96,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "protovalidate-python",
+        "url": "https://github.com/bufbuild/protovalidate-python",
+        "owner": {
+          "login": "bufbuild",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/54191850?v=4",
+          "url": "https://github.com/bufbuild"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKmMTac51aPqH",
+      "closed": false,
+      "title": "Зробити пароль в прошивці опціональним",
+      "createdAt": "2023-10-31T07:26:42Z",
+      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
+            "name": null,
+            "url": "https://github.com/Galaichuk"
+          }
+        ]
+      },
+      "repository": {
+        "name": "TMA-TGX-china",
+        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKmMTac51aNXr",
+      "closed": false,
+      "title": "TMA55M FW 0138 Не корректно відображає температуру нижчу за 0",
+      "createdAt": "2023-10-31T07:20:58Z",
+      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
+            "name": null,
+            "url": "https://github.com/Galaichuk"
+          }
+        ]
+      },
+      "repository": {
+        "name": "TMA-TGX-china",
+        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51NxRt",
+      "closed": false,
+      "title": "Додати до репо шаблон issue",
+      "createdAt": "2023-10-28T10:50:08Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls51KEOC",
+      "closed": true,
+      "title": "Додати drag-n-drop до перегляду файлів",
+      "createdAt": "2023-10-27T13:46:56Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/58",
+      "number": 58,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51J6A-",
+      "closed": false,
+      "title": "Прилад повністю зависає якщо щось із периферії на I2С не працює",
+      "createdAt": "2023-10-27T13:28:35Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51J4ih",
+      "closed": true,
+      "title": "Вияснити структуру команди для налаштувань RTC",
+      "createdAt": "2023-10-27T13:26:24Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51J3XE",
+      "closed": false,
+      "title": "Реалізувати в налаштуваннях вибір режиму зуму",
+      "createdAt": "2023-10-27T13:23:53Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
+            "name": null,
+            "url": "https://github.com/tortorino"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51J2kq",
+      "closed": false,
+      "title": "Занадто яскраве задвоєння пікселів кольорових сіток",
+      "createdAt": "2023-10-27T13:21:57Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51J1q1",
+      "closed": false,
+      "title": "Додати в налаштування приладу зміну коефіцієнта температурної чутливості пороху",
+      "createdAt": "2023-10-27T13:19:43Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51Jxuq",
+      "closed": true,
+      "title": "Додати підтримку всіх використовуваних нами метеостанцій",
+      "createdAt": "2023-10-27T13:10:22Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51I9Y0",
+      "closed": true,
+      "title": "Щодо зависання приладів",
+      "createdAt": "2023-10-27T11:01:53Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls51ICns",
+      "closed": true,
+      "title": "Please add the \"About\" dialog where we can see the current app version",
+      "createdAt": "2023-10-27T08:37:20Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/56",
+      "number": 56,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51H6pw",
+      "closed": false,
+      "title": "Clicks in a7p proto and profiles migrations",
+      "createdAt": "2023-10-27T08:17:06Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
+            "name": null,
+            "url": "https://github.com/tortorino"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51HnFW",
+      "closed": true,
+      "title": "Device resets the settings on random turning on",
+      "createdAt": "2023-10-27T07:26:31Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51BhaY",
+      "closed": true,
+      "title": "Can the factory fw load the default core's serial number to the info?",
+      "createdAt": "2023-10-26T11:37:07Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51BHrM",
+      "closed": false,
+      "title": "Приховати юстування LRF",
+      "createdAt": "2023-10-26T10:40:52Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/8",
+      "number": 8,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51BGl4",
+      "closed": false,
+      "title": "Збільшити швидкість зміни дистанції",
+      "createdAt": "2023-10-26T10:38:05Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/7",
+      "number": 7,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51BE6d",
+      "closed": false,
+      "title": "Додати в налаштування приладу поправку датчика температури",
+      "createdAt": "2023-10-26T10:34:27Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51BERX",
+      "closed": false,
+      "title": "Make the change of time and date in the settings cyclic",
+      "createdAt": "2023-10-26T10:33:00Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
+            "name": null,
+            "url": "https://github.com/SergeyTVT"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51A9bY",
+      "closed": false,
+      "title": "Cross still moving up after zeroing",
+      "createdAt": "2023-10-26T10:18:01Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/4",
+      "number": 4,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
+            "name": null,
+            "url": "https://github.com/tortorino"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls51AztI",
+      "closed": true,
+      "title": "Profile creation wizard refactoring",
+      "createdAt": "2023-10-26T09:56:15Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/54",
+      "number": 54,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc51AwoU",
+      "closed": true,
+      "title": "Automatic exit from USB mode",
+      "createdAt": "2023-10-26T09:49:21Z",
+      "url": "https://github.com/JAremko/AR612-issues/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/JAremko/AR612-issues",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850OkCo",
+      "closed": false,
+      "title": "Add optional support of the Coriolis force",
+      "createdAt": "2023-10-18T15:03:12Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/36",
+      "number": 36,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850OjaT",
+      "closed": false,
+      "title": "Refactor the unit.py module to make it simplier and flexible",
+      "createdAt": "2023-10-18T15:02:05Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/35",
+      "number": 35,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850N6P5",
+      "closed": true,
+      "title": "Add the metods to take in account on other target's altitude onto plot",
+      "createdAt": "2023-10-18T13:47:07Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850N4ji",
+      "closed": false,
+      "title": "Add optional backend for optimized calculations using pandas, numpy, etc",
+      "createdAt": "2023-10-18T13:44:31Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850N3Ty",
+      "closed": false,
+      "title": "Find the way to provide more efficient methods of calculation",
+      "createdAt": "2023-10-18T13:42:40Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/32",
+      "number": 32,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850NvAQ",
+      "closed": true,
+      "title": "Update the README.md for the packages",
+      "createdAt": "2023-10-18T13:26:35Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850Nugy",
+      "closed": false,
+      "title": "Create a full readable documentation",
+      "createdAt": "2023-10-18T13:25:35Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850Gb6B",
+      "closed": true,
+      "title": "Add an optional pure or cython based package installation",
+      "createdAt": "2023-10-17T16:46:01Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850GZGo",
+      "closed": true,
+      "title": "Update the library to python 3.12",
+      "createdAt": "2023-10-17T16:39:40Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z-OGK",
+      "closed": true,
+      "title": "Create a dev branch with a latest changes",
+      "createdAt": "2023-10-16T16:56:29Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/42",
+      "number": 42,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z-NUa",
+      "closed": true,
+      "title": "Add to docs FAQ",
+      "createdAt": "2023-10-16T16:54:57Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z-JpF",
+      "closed": true,
+      "title": "Complete translation of a BC type screen in wizard",
+      "createdAt": "2023-10-16T16:45:35Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/40",
+      "number": 40,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z9vIV",
+      "closed": false,
+      "title": "Add the powder sensitivity calculator to the app",
+      "createdAt": "2023-10-16T15:47:38Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/39",
+      "number": 39,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z9f_F",
+      "closed": true,
+      "title": "Update start dialog docs",
+      "createdAt": "2023-10-16T15:23:51Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/38",
+      "number": 38,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z7HjW",
+      "closed": false,
+      "title": "[PROPOSAL] Change a set of distances in profile edit mode",
+      "createdAt": "2023-10-16T10:22:13Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/35",
+      "number": 35,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z7G9g",
+      "closed": false,
+      "title": "[PROPOSAL] Add a new one set of distances",
+      "createdAt": "2023-10-16T10:20:48Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5z7GSN",
+      "closed": true,
+      "title": "Merge screens of BC-data properties in profile creator",
+      "createdAt": "2023-10-16T10:19:13Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5zXBdk",
+      "closed": false,
+      "title": "Add the gallery of the profiles",
+      "createdAt": "2023-10-10T13:47:33Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5zV6bw",
+      "closed": true,
+      "title": "[PROPOSAL] Dialog window always on top on app start",
+      "createdAt": "2023-10-10T11:25:18Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5zVpYp",
+      "closed": true,
+      "title": "[BUG] Old app version don't uninstalling fully",
+      "createdAt": "2023-10-10T10:48:29Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5zVk-c",
+      "closed": true,
+      "title": "[BUG] Two update processes in one time",
+      "createdAt": "2023-10-10T10:42:17Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/28",
+      "number": 28,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS285y6gq3",
+      "closed": true,
+      "title": "Zero given elevation unittests fails",
+      "createdAt": "2023-10-05T10:23:00Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/9",
+      "number": 9,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOACu7ec5wDovT",
+      "closed": true,
+      "title": "shared libs builds with 32 bit arch instaead of 64 bit",
+      "createdAt": "2023-09-04T10:43:41Z",
+      "url": "https://github.com/kivy/python-for-android/issues/2888",
+      "number": 2888,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "python-for-android",
+        "url": "https://github.com/kivy/python-for-android",
+        "owner": {
+          "login": "kivy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1266152?v=4",
+          "url": "https://github.com/kivy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vxn26",
+      "closed": true,
+      "title": "Translation issue",
+      "createdAt": "2023-08-31T10:50:53Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/27",
+      "number": 27,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vwGCu",
+      "closed": true,
+      "title": "[BUG] loading zero data owerwrites current profile",
+      "createdAt": "2023-08-31T06:38:52Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vwFhW",
+      "closed": false,
+      "title": "[PROPOSAL] Add auto backup for the profiles on it's open",
+      "createdAt": "2023-08-31T06:37:01Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/25",
+      "number": 25,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vv9Kt",
+      "closed": true,
+      "title": "[PROPOSAL] Replace file tree to the side of app",
+      "createdAt": "2023-08-31T06:04:57Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/24",
+      "number": 24,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vv8SM",
+      "closed": true,
+      "title": "Not an obvious access to actions",
+      "createdAt": "2023-08-31T06:01:10Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/23",
+      "number": 23,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5vv6zf",
+      "closed": true,
+      "title": "[PROPOSAL] add shortcuts",
+      "createdAt": "2023-08-31T05:54:42Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/22",
+      "number": 22,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOACu7ec5uwE9e",
+      "closed": false,
+      "title": "Fix sqlalchemy recipe",
+      "createdAt": "2023-08-20T11:53:00Z",
+      "url": "https://github.com/kivy/python-for-android/issues/2882",
+      "number": 2882,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "python-for-android",
+        "url": "https://github.com/kivy/python-for-android",
+        "owner": {
+          "login": "kivy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1266152?v=4",
+          "url": "https://github.com/kivy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ90I5s5uTZgO",
+      "closed": true,
+      "title": "Some additional files not incluses to build",
+      "createdAt": "2023-08-14T21:36:33Z",
+      "url": "https://github.com/o-murphy/eballistica_app/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ90I5s5uTTrZ",
+      "closed": true,
+      "title": "Set limits for Numeric fields",
+      "createdAt": "2023-08-14T21:18:07Z",
+      "url": "https://github.com/o-murphy/eballistica_app/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ90I5s5uTTXJ",
+      "closed": true,
+      "title": "Add local database binds",
+      "createdAt": "2023-08-14T21:17:17Z",
+      "url": "https://github.com/o-murphy/eballistica_app/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ90I5s5uJYXF",
+      "closed": true,
+      "title": "App closes with Key error",
+      "createdAt": "2023-08-12T11:33:33Z",
+      "url": "https://github.com/o-murphy/eballistica_app/issues/13",
+      "number": 13,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJ90I5s5t_9nk",
+      "closed": true,
+      "title": "Can't compile apk",
+      "createdAt": "2023-08-10T16:04:46Z",
+      "url": "https://github.com/o-murphy/eballistica_app/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "eballistica_app",
+        "url": "https://github.com/o-murphy/eballistica_app",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOCL2OjM5tomsp",
+      "closed": false,
+      "title": "Add please native int and float spinbox to uix",
+      "createdAt": "2023-08-07T12:33:56Z",
+      "url": "https://github.com/kivymd/KivyMD/issues/1537",
+      "number": 1537,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "KivyMD",
+        "url": "https://github.com/kivymd/KivyMD",
+        "owner": {
+          "login": "kivymd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12729247?v=4",
+          "url": "https://github.com/kivymd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5th-RB",
+      "closed": true,
+      "title": "[BUG] App freezes after closing file open/save dialogs",
+      "createdAt": "2023-08-05T07:15:50Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/21",
+      "number": 21,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdP8B",
+      "closed": true,
+      "title": "[PROPOSAL] Units of measurement conversion",
+      "createdAt": "2023-08-04T09:20:31Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/20",
+      "number": 20,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdOqY",
+      "closed": false,
+      "title": "[PROPOSAL] CDM export/import/editing",
+      "createdAt": "2023-08-04T09:16:58Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/19",
+      "number": 19,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdMN9",
+      "closed": true,
+      "title": "[PROPOSAL] Use app specific directory as default directory to saving profiles",
+      "createdAt": "2023-08-04T09:10:02Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdKb4",
+      "closed": true,
+      "title": "[PROPOSAL] Propose file name on it's saving, Use system file dialogs",
+      "createdAt": "2023-08-04T09:04:55Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/17",
+      "number": 17,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdHmM",
+      "closed": true,
+      "title": "[PROPOSAL] Display a profile metadata of .a7p file on click it in files explorer",
+      "createdAt": "2023-08-04T08:56:46Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdELM",
+      "closed": true,
+      "title": "Accept dot and coma symbols as floating point number field separator",
+      "createdAt": "2023-08-04T08:46:52Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/15",
+      "number": 15,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5tdCLG",
+      "closed": true,
+      "title": "[PROPOSAL] Visualisation of short-name-bot and short-name-top",
+      "createdAt": "2023-08-04T08:41:02Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/14",
+      "number": 14,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAjGXhs5ntgqq",
+      "closed": false,
+      "title": "Error when sleep() in trange with rich",
+      "createdAt": "2023-06-03T23:19:50Z",
+      "url": "https://github.com/tqdm/tqdm/issues/1476",
+      "number": 1476,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "tqdm",
+        "url": "https://github.com/tqdm/tqdm",
+        "owner": {
+          "login": "tqdm",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12731565?v=4",
+          "url": "https://github.com/tqdm"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEVbSas5YB-he",
+      "closed": true,
+      "title": "I made a fork for aiogram 3",
+      "createdAt": "2022-12-05T16:18:13Z",
+      "url": "https://github.com/noXplode/aiogram_calendar/issues/6",
+      "number": 6,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "aiogram_calendar",
+        "url": "https://github.com/noXplode/aiogram_calendar",
+        "owner": {
+          "login": "noXplode",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
+          "url": "https://github.com/noXplode"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOC9PN385MyjgT",
+      "closed": true,
+      "title": "division by zero in func Trajectory, unit test can't be complete",
+      "createdAt": "2022-06-29T07:57:59Z",
+      "url": "https://github.com/gehtsoft-usa/go_ballisticcalc/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "go_ballisticcalc",
+        "url": "https://github.com/gehtsoft-usa/go_ballisticcalc",
+        "owner": {
+          "login": "gehtsoft-usa",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/48291690?v=4",
+          "url": "https://github.com/gehtsoft-usa"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3NTYxMDQ5NzY=",
+      "closed": true,
+      "title": "Where the method \"copyMessage\"?",
+      "createdAt": "2020-12-03T11:18:27Z",
+      "url": "https://github.com/eternnoir/pyTelegramBotAPI/issues/1031",
+      "number": 1031,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pyTelegramBotAPI",
+        "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+        "owner": {
+          "login": "eternnoir",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1109538?v=4",
+          "url": "https://github.com/eternnoir"
+        }
+      }
+    }
+  ],
+  "open": 34,
+  "totalCount": 81
 }
