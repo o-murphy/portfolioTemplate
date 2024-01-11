@@ -276,7 +276,7 @@ const skills = {
     },
     {
       title: "GPS monitoring, telematics and fleet management",
-      fileName: "Telematics", // FIXME
+      fileName: "MTelematics", // FIXME
       skills: [
         "",
         // "⚡ Creating embedded solutions for microcontrollers using Micropython",

@@ -220,7 +220,7 @@ const svgTheme = {
   tulip: "#f28f8f",
   steelBlue: "#4584b6",
   ffde57: "#ffde57",
-  e18966: "#e18966",
+  ffa8a7: "#ffa8a7",
 };
 
 export const chosenTheme = materialTealTheme;

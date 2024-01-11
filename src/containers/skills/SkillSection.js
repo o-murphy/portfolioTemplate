@@ -14,6 +14,7 @@ import MSingleBoard from "./MSingleBoard";
 import MRestfull from "./MRestfull";
 import MP4A from "./MP4A";
 import MEmbedded from "./MEmbedded";
+import MTelematics from "./MTelematics";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
@@ -35,6 +36,8 @@ function GetSkillSvg(props) {
   else if (props.fileName === "MP4A") return <MP4A theme={props.theme} />;
   else if (props.fileName === "MEmbedded")
     return <MEmbedded theme={props.theme} />;
+  else if (props.fileName === "MTelematics")
+    return <MTelematics theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 
