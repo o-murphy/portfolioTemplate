@@ -12,6 +12,13 @@
   font-family: "Google Sans Regular";
 }
 
+.no-link {
+  pointer-events: none;
+  cursor: text;
+  text-decoration: none;
+  color: #868e96;
+}
+
 .footer-div {
   margin-top: 2rem;
 }

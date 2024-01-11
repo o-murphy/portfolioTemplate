@@ -1,10 +1,9 @@
 import React from "react";
-import { chosenTheme, svgTheme } from "../../theme";
+import { chosenSvgTheme } from "../../theme";
 
 function MFeelingProud() {
   const colors = {
-    ...svgTheme,
-    highlight: chosenTheme.splashBg,
+    ...chosenSvgTheme,
   };
 
   return (

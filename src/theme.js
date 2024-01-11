@@ -212,16 +212,25 @@ const svgTheme = {
   outerSpace: "#444247",
   antiFlashWhite: "#f0f0f0",
   antiFlashWhite2: "#f3f3f3",
-  brownYellow: "#cda964",
+  // brownYellow: "#cda964",
   macaroniAndCheese: "#f6af8c",
   lightFrenchBeige: "#cba773",
   copper: "#e18966",
   copperPenny: "#b16668",
   tulip: "#f28f8f",
   steelBlue: "#4584b6",
-  ffde57: "#ffde57",
-  ffa8a7: "#ffa8a7",
+  mustard: "#ffde57",
+  lightSalmonPink: "#ffa8a7",
+  americanSilver: "#cfcfcf",
 };
 
-export const chosenTheme = materialTealTheme;
-export { svgTheme };
+const chosenTheme = materialDarkTheme;
+const chosenSvgTheme = {
+  ...svgTheme,
+  // highlight: "magenta",
+  highlight: chosenTheme.expTxtColor,
+  // splashDark: chosenTheme.highlight
+  splashDark: chosenTheme.dark,
+};
+
+export { svgTheme, chosenSvgTheme, chosenTheme };

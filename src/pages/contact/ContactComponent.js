@@ -4,11 +4,14 @@ import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
-import BlogsImg from "./BlogsImg";
-import AddressImg from "./AddressImg";
+// import BlogsImg from "./BlogsImg";
+// import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
+import MBlogsImg from "./MBlogsImg";
+import MAddressImg from "./MAddressImg";
+import MContactsImg from "./MContactsImg";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -25,10 +28,11 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
-                <img
-                  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
-                  alt=""
-                />
+                {/*<img*/}
+                {/*  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}*/}
+                {/*  alt=""*/}
+                {/*/>*/}
+                <MContactsImg theme={theme} />
               </div>
               <div className="contact-heading-text-div">
                 <h1
@@ -81,7 +85,8 @@ class Contact extends Component {
 											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <BlogsImg theme={theme} />
+                {/*<BlogsImg theme={theme} />*/}
+                <MBlogsImg theme={theme} />
               </div>
             </div>
           </Fade>
@@ -92,7 +97,8 @@ class Contact extends Component {
 											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <AddressImg theme={theme} />
+                {/*<AddressImg theme={theme} />*/}
+                <MAddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">
                 <h1

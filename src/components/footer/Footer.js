@@ -16,10 +16,25 @@ export default function Footer(props) {
           className="footer-copyright-text"
           style={{ color: props.theme.secondaryText }}
         >
-          <a href="https://storyset.com/idea">
+          <a className="no-link" href="https://storyset.com/idea">
             © Idea illustrations by Storyset
           </a>
+          {/*{" & "}*/}
+          {/*<a className="no-link"*/}
+          {/*   href="">*/}
+          {/*    Artist*/}
+          {/*</a>*/}
         </p>
+
+        {/*<p*/}
+        {/*    className="footer-copyright-text"*/}
+        {/*    style={{color: props.theme.secondaryText}}*/}
+        {/*>*/}
+        {/*    <a className="no-link"*/}
+        {/*       href="">*/}
+        {/*        Artist*/}
+        {/*    </a>*/}
+        {/*</p>*/}
       </Fade>
     </div>
   );
