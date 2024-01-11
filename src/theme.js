@@ -235,8 +235,7 @@ const chosenSvgTheme = {
   ...svgTheme,
   deepSpaceSparkle: "#5b6b6e",
   highlight: "#4bbecf",
-  outerSpace: "#295962",
-  splashDark: chosenTheme.dark,
+  splashDark: "#295962",
 };
 
 export { svgTheme, chosenSvgTheme, chosenTheme };
