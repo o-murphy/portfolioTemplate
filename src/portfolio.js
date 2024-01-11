@@ -1,8 +1,6 @@
 /* Change this file to get your personal Porfolio */
 
 // Website related settings
-import MEmbedded from "./containers/skills/MEmbedded";
-
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
@@ -276,7 +274,7 @@ const skills = {
     },
     {
       title: "GPS monitoring, telematics and fleet management",
-      fileName: "Telematics", // FIXME
+      fileName: "MTelematics", // FIXME
       skills: [
         "",
         // "⚡ Creating embedded solutions for microcontrollers using Micropython",

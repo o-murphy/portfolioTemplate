@@ -1,10 +1,9 @@
 import React from "react";
-import { chosenTheme, svgTheme } from "../../theme";
+import { chosenSvgTheme } from "../../theme";
 
 export default function MSingleBoard() {
   const colors = {
-    ...svgTheme,
-    highlight: chosenTheme.splashBg,
+    ...chosenSvgTheme,
   };
 
   return (
@@ -2212,87 +2211,87 @@ export default function MSingleBoard() {
           />
           <path
             d="M270.25,399.63c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M271.85,400.63c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M273.55,401.63c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M275.25,402.53c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M276.85,403.53c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M278.55,404.43c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M280.25,405.43c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M281.85,406.43c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M283.55,407.33c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M285.15,408.33c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M286.85,409.23c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M288.55,410.23c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M290.15,411.23c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.62.62,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M291.85,412.13c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M293.45,413.13c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M295.15,414c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M296.85,415c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <polygon
@@ -2339,87 +2338,87 @@ export default function MSingleBoard() {
           />
           <path
             d="M167.15,445c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M168.85,446c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M170.55,446.93c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M172.15,447.93c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M173.85,448.93c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.46.46,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M175.45,449.83c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M177.15,450.83c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M178.85,451.73c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M180.45,452.73c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M182.15,453.73c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.46.46,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M183.75,454.63c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M185.45,455.63c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M187.15,456.53c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.55.55,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M188.75,457.53c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2,0-.3.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M190.45,458.53c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.46.46,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M192.15,459.43c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4c-.2.1-.4.3-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <path
             d="M193.75,460.43c.2,3.1-.3,5.2-1.6,6.5a.35.35,0,0,0,.5.5c1.4-1.4,2-3.8,1.8-7.1a.43.43,0,0,0-.4-.4.85.85,0,0,0-.3.5Z"
-            fill={colors.brownYellow}
+            fill={colors.hair}
             fillRule="evenodd"
           />
           <polygon

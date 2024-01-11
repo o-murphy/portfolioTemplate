@@ -10,50 +10,120 @@ const openSource = {
 };
 
 const query_pr = {
+  query: `query {
+    search(first: 100, type: ISSUE, query: "is:pr author:${openSource.githubUserName} is:public sort:created-desc") {
+      issueCount
+      nodes {
+        ... on PullRequest {
+          id
+          title
+          url
+          state
+          mergedBy {
+            avatarUrl
+            url
+            login
+          }
+          createdAt
+          number
+          changedFiles
+          additions
+          deletions
+          baseRepository {
+            name
+            url
+            owner {
+              avatarUrl
+              login
+              url
+            }
+          }
+        }
+      }
+    }
+  }`
+};
+
+const query_pr1 = {
   query: `
-	query {
-	  user(login: "${openSource.githubUserName}"){
-	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
+  query {
+    user(login: "${openSource.githubUserName}"){
+      pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}, privacy: PUBLIC){
       totalCount
       nodes{
         id
         title
         url
         state
-	      mergedBy {
-	          avatarUrl
-	          url
-	          login
-	      }
-	      createdAt
-	      number
+        mergedBy {
+            avatarUrl
+            url
+            login
+        }
+        createdAt
+        number
         changedFiles
-	      additions
-	      deletions
+        additions
+        deletions
         baseRepository {
-	          name
-	          url
-	          owner {
-	            avatarUrl
-	            login
-	            url
-	          }
-	        }
+            name
+            url
+            owner {
+              avatarUrl
+              login
+              url
+            }
+          }
       }
     }
-	}
+  }
 }
-	`,
+  `,
 };
 
 const query_issue = {
+  query: `query {
+    search(first: 100, type: ISSUE, query: "is:issue author:${openSource.githubUserName} is:public sort:updated-desc") {
+      issueCount
+      nodes {
+        ... on Issue {
+          id
+          closed
+          title
+          createdAt
+          url
+          number
+          updatedAt
+          assignees(first: 100) {
+            nodes {
+              avatarUrl
+              name
+              url
+            }
+          }
+          repository {
+            name
+            url
+            owner {
+              login
+              avatarUrl
+              url
+            }
+          }
+        }
+      }
+    }
+  }`
+};
+
+const query_issue1 = {
   query: `query{
 
-		user(login: "${openSource.githubUserName}") {
+    user(login: "${openSource.githubUserName}") {
     issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
       totalCount
       nodes{
-      	id
+        id
         closed
         title
         createdAt
@@ -69,6 +139,7 @@ const query_issue = {
         repository{
           name
           url
+          isPrivate
           owner{
             login
             avatarUrl
@@ -79,7 +150,7 @@ const query_issue = {
     }
   }
 
-	}`,
+  }`,
 };
 
 const query_org = {
@@ -142,7 +213,9 @@ fetch(baseUrl, {
   .then((txt) => {
     const data = JSON.parse(txt);
     var cropped = { data: [] };
-    cropped["data"] = data["data"]["user"]["pullRequests"]["nodes"];
+
+    // Correctly access the nodes from the `search` query
+    cropped["data"] = data.data.search.nodes;
 
     var open = 0;
     var closed = 0;
@@ -161,7 +234,7 @@ fetch(baseUrl, {
     console.log("Fetching the Pull Request Data.\n");
     fs.writeFile(
       "./src/shared/opensource/pull_requests.json",
-      JSON.stringify(cropped),
+      JSON.stringify(cropped, null, 2),
       function (err) {
         if (err) {
           console.log(err);
@@ -171,20 +244,63 @@ fetch(baseUrl, {
   })
   .catch((error) => console.log(JSON.stringify(error)));
 
+// fetch(baseUrl, {
+//   method: "POST",
+//   headers: headers,
+//   body: JSON.stringify(query_pr),
+// })
+//   .then((response) => response.text())
+//   .then((txt) => {
+//     const data = JSON.parse(txt);
+//     var cropped = { data: [] };
+//     cropped["data"] = data["data"]["user"]["pullRequests"]["nodes"];
+
+//     var open = 0;
+//     var closed = 0;
+//     var merged = 0;
+//     for (var i = 0; i < cropped["data"].length; i++) {
+//       if (cropped["data"][i]["state"] === "OPEN") open++;
+//       else if (cropped["data"][i]["state"] === "MERGED") merged++;
+//       else closed++;
+//     }
+
+//     cropped["open"] = open;
+//     cropped["closed"] = closed;
+//     cropped["merged"] = merged;
+//     cropped["totalCount"] = cropped["data"].length;
+
+//     console.log("Fetching the Pull Request Data.\n");
+//     fs.writeFile(
+//       "./src/shared/opensource/pull_requests.json",
+//       JSON.stringify(cropped),
+//       function (err) {
+//         if (err) {
+//           console.log(err);
+//         }
+//       }
+//     );
+//   })
+//   .catch((error) => console.log(JSON.stringify(error)));
+
 fetch(baseUrl, {
-  method: "POST",
-  headers: headers,
-  body: JSON.stringify(query_issue),
-})
+    method: "POST",
+    headers: headers,
+    body: JSON.stringify(query_issue),
+  })
   .then((response) => response.text())
   .then((txt) => {
     const data = JSON.parse(txt);
     var cropped = { data: [] };
-    cropped["data"] = data["data"]["user"]["issues"]["nodes"];
+    
+    // Correctly access the nodes from the `search` query
+    const publicIssues = data.data.search.nodes;
+
+    cropped["data"] = publicIssues;
 
     var open = 0;
     var closed = 0;
     for (var i = 0; i < cropped["data"].length; i++) {
+      // The `isPrivate` check is no longer needed since the search query handles it
       if (cropped["data"][i]["closed"] === false) open++;
       else closed++;
     }
@@ -196,7 +312,7 @@ fetch(baseUrl, {
     console.log("Fetching the Issues Data.\n");
     fs.writeFile(
       "./src/shared/opensource/issues.json",
-      JSON.stringify(cropped),
+      JSON.stringify(cropped, null, 2),
       function (err) {
         if (err) {
           console.log(err);
@@ -205,6 +321,47 @@ fetch(baseUrl, {
     );
   })
   .catch((error) => console.log(JSON.stringify(error)));
+
+// fetch(baseUrl, {
+//     method: "POST",
+//     headers: headers,
+//     body: JSON.stringify(query_issue),
+//   })
+//   .then((response) => response.text())
+//   .then((txt) => {
+//     const data = JSON.parse(txt);
+//     var cropped = { data: [] };
+    
+//     // Filter out issues from private repositories
+//     const publicIssues = data.data.user.issues.nodes.filter(
+//       (issue) => !issue.repository.isPrivate
+//     );
+
+//     cropped["data"] = publicIssues;
+
+//     var open = 0;
+//     var closed = 0;
+//     for (var i = 0; i < cropped["data"].length; i++) {
+//       if (cropped["data"][i]["closed"] === false) open++;
+//       else closed++;
+//     }
+
+//     cropped["open"] = open;
+//     cropped["closed"] = closed;
+//     cropped["totalCount"] = cropped["data"].length;
+
+//     console.log("Fetching the Issues Data.\n");
+//     fs.writeFile(
+//       "./src/shared/opensource/issues.json",
+//       JSON.stringify(cropped),
+//       function (err) {
+//         if (err) {
+//           console.log(err);
+//         }
+//       }
+//     );
+//   })
+//   .catch((error) => console.log(JSON.stringify(error)));
 
 fetch(baseUrl, {
   method: "POST",

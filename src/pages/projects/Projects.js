@@ -14,7 +14,8 @@ import {
 } from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
-import ProjectsImg from "./ProjectsImg";
+// import ProjectsImg from "./ProjectsImg";
+import MProjectsImg from "./MProjectsImg";
 
 class Projects extends Component {
   render() {
@@ -30,7 +31,8 @@ class Projects extends Component {
 											src={require(`../../assests/images/${projectsHeader["avatar_image_path"]}`)}
 											alt=""
 										/> */}
-                <ProjectsImg theme={theme} />
+                {/*<ProjectsImg theme={theme} />*/}
+                <MProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">
                 <h1

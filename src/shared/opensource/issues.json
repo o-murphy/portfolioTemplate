@@ -1,139 +1,1148 @@
 {
-  "closed": 47,
+  "closed": 43,
   "data": [
     {
-      "id": "I_kwDOEVbSas54Pkaw",
+      "id": "I_kwDOAZsu_c7I_hvU",
       "closed": false,
-      "title": "[enchantment] Select first day of week",
-      "createdAt": "2023-11-29T20:14:51Z",
-      "url": "https://github.com/noXplode/aiogram_calendar/issues/18",
-      "number": 18,
+      "title": "dev: Enchance development environment setup with `pythonista-stubs` package",
+      "createdAt": "2025-09-01T10:12:31Z",
+      "url": "https://github.com/ywangd/stash/issues/554",
+      "number": 554,
+      "updatedAt": "2025-09-01T11:48:34Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "aiogram_calendar",
-        "url": "https://github.com/noXplode/aiogram_calendar",
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
         "owner": {
-          "login": "noXplode",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
-          "url": "https://github.com/noXplode"
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
         }
       }
     },
     {
-      "id": "I_kwDOEVbSas54NrUY",
+      "id": "I_kwDOAZsu_c7EVaJI",
       "closed": false,
-      "title": "[enchantment] WebApp based date-picker variant  ",
-      "createdAt": "2023-11-29T15:29:45Z",
-      "url": "https://github.com/noXplode/aiogram_calendar/issues/17",
-      "number": 17,
+      "title": "enchantment: Register entry points",
+      "createdAt": "2025-08-05T17:49:44Z",
+      "url": "https://github.com/ywangd/stash/issues/532",
+      "number": 532,
+      "updatedAt": "2025-09-01T10:14:33Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "aiogram_calendar",
-        "url": "https://github.com/noXplode/aiogram_calendar",
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
         "owner": {
-          "login": "noXplode",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
-          "url": "https://github.com/noXplode"
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
         }
       }
     },
     {
-      "id": "I_kwDOEVbSas54MIrw",
+      "id": "I_kwDOA_GdNc7HdOI8",
       "closed": false,
-      "title": "[enchantment] Range of available dates",
-      "createdAt": "2023-11-29T12:09:06Z",
-      "url": "https://github.com/noXplode/aiogram_calendar/issues/15",
-      "number": 15,
+      "title": "espressif: Fails every time with Nimble \"not connected\" error on `_bleio.Connection..discover_remote_services()`",
+      "createdAt": "2025-08-22T18:38:36Z",
+      "url": "https://github.com/adafruit/circuitpython/issues/10580",
+      "number": 10580,
+      "updatedAt": "2025-09-01T10:04:18Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "aiogram_calendar",
-        "url": "https://github.com/noXplode/aiogram_calendar",
+        "name": "circuitpython",
+        "url": "https://github.com/adafruit/circuitpython",
         "owner": {
-          "login": "noXplode",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
-          "url": "https://github.com/noXplode"
+          "login": "adafruit",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/181069?v=4",
+          "url": "https://github.com/adafruit"
         }
       }
     },
     {
-      "id": "I_kwDOG1Nw0s53m7Ws",
+      "id": "I_kwDOAZsu_c7I_Vk1",
       "closed": false,
-      "title": "LilyGo T-Display-S3 micropython + lvgl",
-      "createdAt": "2023-11-22T16:19:51Z",
-      "url": "https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/40",
-      "number": 40,
+      "title": "py3: `subprocess.py` patch needed",
+      "createdAt": "2025-09-01T09:57:16Z",
+      "url": "https://github.com/ywangd/stash/issues/553",
+      "number": 553,
+      "updatedAt": "2025-09-01T09:57:16Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "lilygo-micropython",
-        "url": "https://github.com/Xinyuan-LilyGO/lilygo-micropython",
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
         "owner": {
-          "login": "Xinyuan-LilyGO",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/46522448?v=4",
-          "url": "https://github.com/Xinyuan-LilyGO"
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
         }
       }
     },
     {
-      "id": "I_kwDOEVbSas53RbSD",
+      "id": "I_kwDOA6e1yM7G0sxO",
+      "closed": false,
+      "title": "Pythonista 3.5: Does not reset `stdin/stdout/stderr` on new script execution",
+      "createdAt": "2025-08-19T21:12:35Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/792",
+      "number": 792,
+      "updatedAt": "2025-08-29T10:44:31Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850OjaT",
       "closed": true,
-      "title": "[enchantment] Localisation",
-      "createdAt": "2023-11-19T21:56:47Z",
-      "url": "https://github.com/noXplode/aiogram_calendar/issues/13",
-      "number": 13,
+      "title": "Refactor the unit.py module to make it simplier and flexible",
+      "createdAt": "2023-10-18T15:02:05Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/35",
+      "number": 35,
+      "updatedAt": "2025-08-29T00:26:20Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "aiogram_calendar",
-        "url": "https://github.com/noXplode/aiogram_calendar",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
-          "login": "noXplode",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
-          "url": "https://github.com/noXplode"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOKmMTac526VyF",
+      "id": "I_kwDOASzMQc7HwW_n",
       "closed": false,
-      "title": "Оновлення протоколу налаштування приладів",
-      "createdAt": "2023-11-15T15:28:10Z",
-      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/4",
-      "number": 4,
+      "title": "Python 3.12 and upper wheels",
+      "createdAt": "2025-08-25T10:44:37Z",
+      "url": "https://github.com/ricmoo/pyaes/issues/55",
+      "number": 55,
+      "updatedAt": "2025-08-25T10:54:01Z",
       "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
-            "name": null,
-            "url": "https://github.com/Galaichuk"
-          }
-        ]
+        "nodes": []
       },
       "repository": {
-        "name": "TMA-TGX-china",
-        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
+        "name": "pyaes",
+        "url": "https://github.com/ricmoo/pyaes",
         "owner": {
-          "login": "o-murphy-tvt",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
-          "url": "https://github.com/o-murphy-tvt"
+          "login": "ricmoo",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/975687?v=4",
+          "url": "https://github.com/ricmoo"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPgNvFc7Hv-5p",
+      "closed": false,
+      "title": "Link to py-ballisticcalc in the README is wrong",
+      "createdAt": "2025-08-25T10:10:14Z",
+      "url": "https://github.com/longrangelab/FAWD-and-User-Interface/issues/3",
+      "number": 3,
+      "updatedAt": "2025-08-25T10:10:14Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "FAWD-and-User-Interface",
+        "url": "https://github.com/longrangelab/FAWD-and-User-Interface",
+        "owner": {
+          "login": "longrangelab",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/223011668?u=c791d60908cf792fd2fd00214647d86af5a32152&v=4",
+          "url": "https://github.com/longrangelab"
+        }
+      }
+    },
+    {
+      "id": "I_kwDODrqxy87HdK8P",
+      "closed": true,
+      "title": "Fails with HCI TIMEOUT error on bleio_connection.discover_remote_services()",
+      "createdAt": "2025-08-22T18:32:29Z",
+      "url": "https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit/issues/27",
+      "number": 27,
+      "updatedAt": "2025-08-22T18:51:39Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Adafruit_CircuitPython_BLE_Adafruit",
+        "url": "https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit",
+        "owner": {
+          "login": "adafruit",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/181069?v=4",
+          "url": "https://github.com/adafruit"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB9Ig8c7G1Dna",
+      "closed": false,
+      "title": "Adafruit СircuitPython backend",
+      "createdAt": "2025-08-19T21:52:43Z",
+      "url": "https://github.com/hbldh/bleak/issues/1812",
+      "number": 1812,
+      "updatedAt": "2025-08-21T13:15:05Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak",
+        "url": "https://github.com/hbldh/bleak",
+        "owner": {
+          "login": "hbldh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4191111?u=06f8cb8fdc6efe3a1568ff9f404616df15c17abc&v=4",
+          "url": "https://github.com/hbldh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB9Ig8c7HDHP5",
+      "closed": false,
+      "title": "Too much repeating conditional imports",
+      "createdAt": "2025-08-20T20:39:41Z",
+      "url": "https://github.com/hbldh/bleak/issues/1813",
+      "number": 1813,
+      "updatedAt": "2025-08-21T08:51:54Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak",
+        "url": "https://github.com/hbldh/bleak",
+        "owner": {
+          "login": "hbldh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4191111?u=06f8cb8fdc6efe3a1568ff9f404616df15c17abc&v=4",
+          "url": "https://github.com/hbldh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7GKXrc",
+      "closed": false,
+      "title": "How to setup PYTHONPATH globally by default?",
+      "createdAt": "2025-08-15T07:42:19Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/790",
+      "number": 790,
+      "updatedAt": "2025-08-15T10:38:13Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7GDXa0",
+      "closed": false,
+      "title": "StaSh Pythonvenv understanding",
+      "createdAt": "2025-08-14T16:11:17Z",
+      "url": "https://github.com/ywangd/stash/issues/545",
+      "number": 545,
+      "updatedAt": "2025-08-14T16:50:47Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7F_bih",
+      "closed": false,
+      "title": "Crypto: outdated",
+      "createdAt": "2025-08-14T10:42:38Z",
+      "url": "https://github.com/ywangd/stash/issues/544",
+      "number": 544,
+      "updatedAt": "2025-08-14T10:42:38Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7FyVUs",
+      "closed": false,
+      "title": "Pythonista 3.5: Crypto is deprecated",
+      "createdAt": "2025-08-13T12:38:16Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/788",
+      "number": 788,
+      "updatedAt": "2025-08-13T22:06:01Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7F1SQ9",
+      "closed": false,
+      "title": "Pythonista 3.5: legacy SDK for objc_util",
+      "createdAt": "2025-08-13T16:23:18Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/789",
+      "number": 789,
+      "updatedAt": "2025-08-13T16:24:02Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOCow09c7FAxmJ",
+      "closed": true,
+      "title": "Some mypy compatible stubs",
+      "createdAt": "2025-08-08T22:02:54Z",
+      "url": "https://github.com/hbmartin/pythonista-stubs/issues/4",
+      "number": 4,
+      "updatedAt": "2025-08-11T12:17:37Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pythonista-stubs",
+        "url": "https://github.com/hbmartin/pythonista-stubs",
+        "owner": {
+          "login": "hbmartin",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/745166?u=92613f6d672cc0157aa9513667f4cc09935a4b1a&v=4",
+          "url": "https://github.com/hbmartin"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB9Ig8c7CjQOl",
+      "closed": false,
+      "title": "Pythonista/iOS: `pythonista.cb` based bleak-compatible backend",
+      "createdAt": "2025-07-25T18:18:09Z",
+      "url": "https://github.com/hbldh/bleak/issues/1797",
+      "number": 1797,
+      "updatedAt": "2025-08-09T17:00:27Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak",
+        "url": "https://github.com/hbldh/bleak",
+        "owner": {
+          "login": "hbldh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4191111?u=06f8cb8fdc6efe3a1568ff9f404616df15c17abc&v=4",
+          "url": "https://github.com/hbldh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB9Ig8c7Da5yE",
+      "closed": false,
+      "title": "enhancement: BLE to TCP/WebSocket bridge",
+      "createdAt": "2025-07-30T22:34:50Z",
+      "url": "https://github.com/hbldh/bleak/issues/1801",
+      "number": 1801,
+      "updatedAt": "2025-08-09T17:00:06Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak",
+        "url": "https://github.com/hbldh/bleak",
+        "owner": {
+          "login": "hbldh",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4191111?u=06f8cb8fdc6efe3a1568ff9f404616df15c17abc&v=4",
+          "url": "https://github.com/hbldh"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7E67QA",
+      "closed": false,
+      "title": "Pythonista 3.5 uses old python 3.13.0rc1",
+      "createdAt": "2025-08-08T12:00:24Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/783",
+      "number": 783,
+      "updatedAt": "2025-08-08T22:01:04Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7E6935",
+      "closed": false,
+      "title": "enchantment: There is no `system()` attribute in `os` module in Pythonsta",
+      "createdAt": "2025-08-08T12:03:29Z",
+      "url": "https://github.com/ywangd/stash/issues/539",
+      "number": 539,
+      "updatedAt": "2025-08-08T20:33:02Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7E8Tl-",
+      "closed": false,
+      "title": "Pythonuista 3.5: `exit` statement not recognized by interpreter",
+      "createdAt": "2025-08-08T13:52:02Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/786",
+      "number": 786,
+      "updatedAt": "2025-08-08T19:14:33Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7E8PRK",
+      "closed": true,
+      "title": "Pythonuista 3.5: ImportError `platform`",
+      "createdAt": "2025-08-08T13:47:18Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/784",
+      "number": 784,
+      "updatedAt": "2025-08-08T19:06:06Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7E8YHD",
+      "closed": false,
+      "title": "Pythonuista 3.5: ANSI C0 and C1 control codes support patch needed for `sys.std`",
+      "createdAt": "2025-08-08T13:57:04Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/787",
+      "number": 787,
+      "updatedAt": "2025-08-08T13:57:04Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7E8Qi4",
+      "closed": false,
+      "title": "Pythonuista 3.5: AttributeError `os.system()`",
+      "createdAt": "2025-08-08T13:48:37Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/785",
+      "number": 785,
+      "updatedAt": "2025-08-08T13:48:37Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7E8G7L",
+      "closed": false,
+      "title": "discussion: pip installable StaSh",
+      "createdAt": "2025-08-08T13:37:51Z",
+      "url": "https://github.com/ywangd/stash/issues/541",
+      "number": 541,
+      "updatedAt": "2025-08-08T13:37:51Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7E74gf",
+      "closed": false,
+      "title": "feature: pipTerminal able to work inside StaSh",
+      "createdAt": "2025-08-08T13:18:11Z",
+      "url": "https://github.com/ywangd/stash/issues/540",
+      "number": 540,
+      "updatedAt": "2025-08-08T13:18:35Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPS2KP87DMgMR",
+      "closed": false,
+      "title": "Can't free resources on CentralManagerDelegate instance delete",
+      "createdAt": "2025-07-29T20:05:50Z",
+      "url": "https://github.com/o-murphy/bleak-pythonista/issues/3",
+      "number": 3,
+      "updatedAt": "2025-08-08T09:05:22Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak-pythonista",
+        "url": "https://github.com/o-murphy/bleak-pythonista",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7EVv5z",
+      "closed": false,
+      "title": "question: Why some not that neccesary commands are not separate packages?",
+      "createdAt": "2025-08-05T18:25:08Z",
+      "url": "https://github.com/ywangd/stash/issues/534",
+      "number": 534,
+      "updatedAt": "2025-08-05T20:18:22Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7EVWN9",
+      "closed": true,
+      "title": "Entry point refactoring",
+      "createdAt": "2025-08-05T17:43:30Z",
+      "url": "https://github.com/ywangd/stash/issues/531",
+      "number": 531,
+      "updatedAt": "2025-08-05T18:11:31Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7ESfj9",
+      "closed": false,
+      "title": "Pythonuista 3.5: ImportError `pwd`",
+      "createdAt": "2025-08-05T13:43:14Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/782",
+      "number": 782,
+      "updatedAt": "2025-08-05T13:49:28Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAZsu_c7D08WD",
+      "closed": false,
+      "title": "Do not work in pythonista 3.5 (TestFlight)",
+      "createdAt": "2025-08-02T01:05:08Z",
+      "url": "https://github.com/ywangd/stash/issues/523",
+      "number": 523,
+      "updatedAt": "2025-08-05T12:01:18Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "stash",
+        "url": "https://github.com/ywangd/stash",
+        "owner": {
+          "login": "ywangd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2344308?u=f046f21d52b9289e27f62b6a62e5a5745ad278b6&v=4",
+          "url": "https://github.com/ywangd"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS28697f9K",
+      "closed": true,
+      "title": "deprecate cdm in Calculator and ProtocolEngine",
+      "createdAt": "2025-06-29T19:24:53Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/186",
+      "number": 186,
+      "updatedAt": "2025-08-02T21:55:06Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7D2152",
+      "closed": false,
+      "title": "Pythonista/cb: CentralManager resources freeing issue",
+      "createdAt": "2025-08-02T13:30:48Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/781",
+      "number": 781,
+      "updatedAt": "2025-08-02T13:30:48Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7DABFe",
+      "closed": false,
+      "title": "[BUG] Does not work with IOS app",
+      "createdAt": "2025-07-29T00:02:07Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/25",
+      "number": 25,
+      "updatedAt": "2025-07-30T22:11:27Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPS2KP87DM8Gg",
+      "closed": true,
+      "title": "Bluetooth write_characteristic_value fails (due to pythonista `_cb`)",
+      "createdAt": "2025-07-29T20:47:22Z",
+      "url": "https://github.com/o-murphy/bleak-pythonista/issues/4",
+      "number": 4,
+      "updatedAt": "2025-07-30T20:58:32Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bleak-pythonista",
+        "url": "https://github.com/o-murphy/bleak-pythonista",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7DAzc3",
+      "closed": true,
+      "title": "_cb.Peripheral.write_characteristic_value raises SystemError",
+      "createdAt": "2025-07-29T02:40:47Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/778",
+      "number": 778,
+      "updatedAt": "2025-07-30T20:56:34Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOA6e1yM7DNjkI",
+      "closed": true,
+      "title": "sys.platform returns \"Darwin\" instead if \"ios\"",
+      "createdAt": "2025-07-29T22:09:14Z",
+      "url": "https://github.com/omz/Pythonista-Issues/issues/779",
+      "number": 779,
+      "updatedAt": "2025-07-30T11:40:28Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "Pythonista-Issues",
+        "url": "https://github.com/omz/Pythonista-Issues",
+        "owner": {
+          "login": "omz",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/82469?u=374ad23a91a7259075f4d0bdde025cd1dc7c01b2&v=4",
+          "url": "https://github.com/omz"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOBkYDRs7DOgOn",
+      "closed": false,
+      "title": "Refer to Bleak backends",
+      "createdAt": "2025-07-30T00:51:46Z",
+      "url": "https://github.com/TheCellule/python-bleson/issues/95",
+      "number": 95,
+      "updatedAt": "2025-07-30T00:51:46Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "python-bleson",
+        "url": "https://github.com/TheCellule/python-bleson",
+        "owner": {
+          "login": "TheCellule",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/32386355?v=4",
+          "url": "https://github.com/TheCellule"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7CjOI1",
+      "closed": false,
+      "title": "[ENHANCEMENT] Pythonista bleak support",
+      "createdAt": "2025-07-25T18:13:56Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/24",
+      "number": 24,
+      "updatedAt": "2025-07-27T16:29:59Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPJMBHM7CjC1L",
+      "closed": false,
+      "title": "Not work with Noise Protocol",
+      "createdAt": "2025-07-25T17:53:18Z",
+      "url": "https://github.com/permissionlesstech/bitchat-android/issues/191",
+      "number": 191,
+      "updatedAt": "2025-07-26T21:29:37Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-android",
+        "url": "https://github.com/permissionlesstech/bitchat-android",
+        "owner": {
+          "login": "permissionlesstech",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/220183803?v=4",
+          "url": "https://github.com/permissionlesstech"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7CjD64",
+      "closed": false,
+      "title": "Channels api removed from iOS app",
+      "createdAt": "2025-07-25T17:55:28Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/23",
+      "number": 23,
+      "updatedAt": "2025-07-25T17:55:28Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7Ci1Qo",
+      "closed": false,
+      "title": "[BUG] DM chats are completely not working between `python-bitchat` and `android` after noise encryption",
+      "createdAt": "2025-07-25T17:30:29Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/22",
+      "number": 22,
+      "updatedAt": "2025-07-25T17:32:38Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7BDf-U",
+      "closed": false,
+      "title": "[BUG] handle_user_input: wrong dict keys",
+      "createdAt": "2025-07-17T09:52:57Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/12",
+      "number": 12,
+      "updatedAt": "2025-07-17T19:10:13Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7BKAWQ",
+      "closed": false,
+      "title": "[ENHANCEMENT] Theming",
+      "createdAt": "2025-07-17T19:09:45Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/14",
+      "number": 14,
+      "updatedAt": "2025-07-17T19:09:45Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7AwZmP",
+      "closed": false,
+      "title": "[ENHANCEMENT] Add CLI --help command",
+      "createdAt": "2025-07-15T22:59:27Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/8",
+      "number": 8,
+      "updatedAt": "2025-07-17T19:03:11Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7BFJx5",
+      "closed": false,
+      "title": "[ENHANCEMENT] use python built-in logging",
+      "createdAt": "2025-07-17T12:13:03Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/13",
+      "number": 13,
+      "updatedAt": "2025-07-17T13:29:06Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7AvKQJ",
+      "closed": false,
+      "title": "[ENHANCEMENT] Python packaging",
+      "createdAt": "2025-07-15T20:19:53Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/3",
+      "number": 3,
+      "updatedAt": "2025-07-15T22:53:16Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7Avafy",
+      "closed": false,
+      "title": "[ENHANCEMENT] Rich / Textual based TUI",
+      "createdAt": "2025-07-15T20:47:36Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/4",
+      "number": 4,
+      "updatedAt": "2025-07-15T21:00:28Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOPMPkgc7AvdL6",
+      "closed": false,
+      "title": "[QUESTION] License",
+      "createdAt": "2025-07-15T20:51:24Z",
+      "url": "https://github.com/kaganisildak/bitchat-python/issues/5",
+      "number": 5,
+      "updatedAt": "2025-07-15T20:51:24Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "bitchat-python",
+        "url": "https://github.com/kaganisildak/bitchat-python",
+        "owner": {
+          "login": "kaganisildak",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/12753938?u=acb93c68ae4c22fde73036edee179bc74d071b0f&v=4",
+          "url": "https://github.com/kaganisildak"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS287AEVPn",
+      "closed": true,
+      "title": "Trajectory request signature",
+      "createdAt": "2025-07-11T10:13:37Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/197",
+      "number": 197,
+      "updatedAt": "2025-07-11T10:13:46Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAOoGts65BKAh",
+      "closed": false,
+      "title": "docs: pots/unix (standalone) has no instructions to build static linked micropython instance",
+      "createdAt": "2025-05-30T19:32:43Z",
+      "url": "https://github.com/micropython/micropython/issues/17399",
+      "number": 17399,
+      "updatedAt": "2025-07-07T23:54:04Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "micropython",
+        "url": "https://github.com/micropython/micropython",
+        "owner": {
+          "login": "micropython",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6298560?v=4",
+          "url": "https://github.com/micropython"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS28656NPl",
+      "closed": true,
+      "title": "Split tests to `core` and `engine` groups",
+      "createdAt": "2025-06-04T20:33:20Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/173",
+      "number": 173,
+      "updatedAt": "2025-07-01T17:46:58Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS28681YtZ",
+      "closed": false,
+      "title": "init trajectory is not thread safe",
+      "createdAt": "2025-06-23T12:57:59Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/182",
+      "number": 182,
+      "updatedAt": "2025-06-25T07:19:47Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
       "id": "I_kwDOIF5yZs52vr-6",
-      "closed": false,
+      "closed": true,
       "title": "[QUESTION] Where can we get the software for that project?",
       "createdAt": "2023-11-14T08:17:08Z",
       "url": "https://github.com/antmicro/cvbs-mipi-bridge/issues/1",
       "number": 1,
+      "updatedAt": "2025-06-09T11:44:23Z",
       "assignees": {
         "nodes": []
       },
@@ -148,38 +1157,19 @@
       }
     },
     {
-      "id": "I_kwDOKlRnMc52k2eN",
-      "closed": true,
-      "title": "archer-ar612-cfg-v1.0.0b3",
-      "createdAt": "2023-11-12T11:59:28Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/27",
-      "number": 27,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls52No9U",
+      "id": "I_kwDOJoVqls6GJkrc",
       "closed": false,
-      "title": "documentation translation fix",
-      "createdAt": "2023-11-08T10:34:18Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/59",
-      "number": 59,
+      "title": "Додати usb eject до функціоналу програми (тільки для Windows)",
+      "createdAt": "2024-04-18T13:07:37Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/69",
+      "number": 69,
+      "updatedAt": "2025-06-04T09:07:28Z",
       "assignees": {
         "nodes": [
           {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-            "name": "Dmytro Yaroshenko",
-            "url": "https://github.com/o-murphy"
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+            "name": "Eugene Yaremenko",
+            "url": "https://github.com/JAremko"
           }
         ]
       },
@@ -194,12 +1184,202 @@
       }
     },
     {
-      "id": "I_kwDOKNavAc52AA8x",
+      "id": "I_kwDOHjeS2865rkxV",
+      "closed": false,
+      "title": "Use list or range of distances",
+      "createdAt": "2025-06-03T19:37:59Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/171",
+      "number": 171,
+      "updatedAt": "2025-06-03T19:37:59Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAOoGts64Gk-K",
+      "closed": false,
+      "title": "Build fails for port/unix mips/mipsel",
+      "createdAt": "2025-05-24T21:08:02Z",
+      "url": "https://github.com/micropython/micropython/issues/17353",
+      "number": 17353,
+      "updatedAt": "2025-05-30T19:19:21Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "micropython",
+        "url": "https://github.com/micropython/micropython",
+        "owner": {
+          "login": "micropython",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/6298560?v=4",
+          "url": "https://github.com/micropython"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOMxNU9c64ezgR",
       "closed": true,
-      "title": "Wrong dependencies",
-      "createdAt": "2023-11-06T17:48:23Z",
-      "url": "https://github.com/o-murphy/a7p/issues/5",
-      "number": 5,
+      "title": "Change default installation path",
+      "createdAt": "2025-05-27T20:13:41Z",
+      "url": "https://github.com/cli-stuff/platform-tools-installer-windows/issues/4",
+      "number": 4,
+      "updatedAt": "2025-05-29T09:24:44Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "platform-tools-installer-windows",
+        "url": "https://github.com/cli-stuff/platform-tools-installer-windows",
+        "owner": {
+          "login": "cli-stuff",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/187746155?v=4",
+          "url": "https://github.com/cli-stuff"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOMxNU9c64G173",
+      "closed": true,
+      "title": "Script usage instruction fix (bypass execution policy)",
+      "createdAt": "2025-05-24T22:10:51Z",
+      "url": "https://github.com/cli-stuff/platform-tools-installer-windows/issues/3",
+      "number": 3,
+      "updatedAt": "2025-05-27T15:25:41Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "platform-tools-installer-windows",
+        "url": "https://github.com/cli-stuff/platform-tools-installer-windows",
+        "owner": {
+          "login": "cli-stuff",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/187746155?v=4",
+          "url": "https://github.com/cli-stuff"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOMxNU9c64G0FY",
+      "closed": false,
+      "title": "Installation Scope: Move default installation place to AppData/Local",
+      "createdAt": "2025-05-24T22:04:15Z",
+      "url": "https://github.com/cli-stuff/platform-tools-installer-windows/issues/2",
+      "number": 2,
+      "updatedAt": "2025-05-24T22:04:15Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "platform-tools-installer-windows",
+        "url": "https://github.com/cli-stuff/platform-tools-installer-windows",
+        "owner": {
+          "login": "cli-stuff",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/187746155?v=4",
+          "url": "https://github.com/cli-stuff"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOArOYPM6xJw-N",
+      "closed": true,
+      "title": "Negative []float32 or []float64 are impossible to parse",
+      "createdAt": "2025-04-04T11:42:29Z",
+      "url": "https://github.com/alexflint/go-arg/issues/284",
+      "number": 284,
+      "updatedAt": "2025-05-24T19:12:16Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "go-arg",
+        "url": "https://github.com/alexflint/go-arg",
+        "owner": {
+          "login": "alexflint",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/640247?u=9074ac4c20afd59ad3f285ef4426f6bdd842c79d&v=4",
+          "url": "https://github.com/alexflint"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOMxNU9c6315AZ",
+      "closed": true,
+      "title": "Extracts archive to C:\\platform-tools\\platform-tools",
+      "createdAt": "2025-05-22T19:27:17Z",
+      "url": "https://github.com/cli-stuff/platform-tools-installer-windows/issues/1",
+      "number": 1,
+      "updatedAt": "2025-05-23T10:22:23Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "platform-tools-installer-windows",
+        "url": "https://github.com/cli-stuff/platform-tools-installer-windows",
+        "owner": {
+          "login": "cli-stuff",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/187746155?v=4",
+          "url": "https://github.com/cli-stuff"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOFTeDLc62iqlc",
+      "closed": true,
+      "title": "Please add aspect-ratio to tcss",
+      "createdAt": "2025-05-14T09:59:02Z",
+      "url": "https://github.com/Textualize/textual/issues/5800",
+      "number": 5800,
+      "updatedAt": "2025-05-14T11:03:12Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "textual",
+        "url": "https://github.com/Textualize/textual",
+        "owner": {
+          "login": "Textualize",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/93378883?v=4",
+          "url": "https://github.com/Textualize"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOK5ACsc62aQxV",
+      "closed": false,
+      "title": "Bump to v2.1.x (sync with python implementation)",
+      "createdAt": "2025-05-13T14:45:31Z",
+      "url": "https://github.com/o-murphy/js-ballistics/issues/12",
+      "number": 12,
+      "updatedAt": "2025-05-13T14:45:31Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "js-ballistics",
+        "url": "https://github.com/o-murphy/js-ballistics",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKNavAc62Prjg",
+      "closed": false,
+      "title": "gallery will be moved to side-party repo",
+      "createdAt": "2025-05-12T16:50:51Z",
+      "url": "https://github.com/o-murphy/a7p/issues/23",
+      "number": 23,
+      "updatedAt": "2025-05-12T16:50:51Z",
       "assignees": {
         "nodes": []
       },
@@ -214,648 +1394,40 @@
       }
     },
     {
-      "id": "I_kwDOJqT2Fc51_Fae",
-      "closed": true,
-      "title": "[BUG] ImportError on import buf/validate",
-      "createdAt": "2023-11-06T15:46:26Z",
-      "url": "https://github.com/bufbuild/protovalidate-python/issues/96",
-      "number": 96,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "protovalidate-python",
-        "url": "https://github.com/bufbuild/protovalidate-python",
-        "owner": {
-          "login": "bufbuild",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/54191850?v=4",
-          "url": "https://github.com/bufbuild"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKmMTac51aPqH",
+      "id": "I_kwDOKNavAc62PooA",
       "closed": false,
-      "title": "Зробити пароль в прошивці опціональним",
-      "createdAt": "2023-10-31T07:26:42Z",
-      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/3",
-      "number": 3,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
-            "name": null,
-            "url": "https://github.com/Galaichuk"
-          }
-        ]
-      },
-      "repository": {
-        "name": "TMA-TGX-china",
-        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
-        "owner": {
-          "login": "o-murphy-tvt",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
-          "url": "https://github.com/o-murphy-tvt"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKmMTac51aNXr",
-      "closed": false,
-      "title": "TMA55M FW 0138 Не корректно відображає температуру нижчу за 0",
-      "createdAt": "2023-10-31T07:20:58Z",
-      "url": "https://github.com/o-murphy-tvt/TMA-TGX-china/issues/2",
-      "number": 2,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22430446?v=4",
-            "name": null,
-            "url": "https://github.com/Galaichuk"
-          }
-        ]
-      },
-      "repository": {
-        "name": "TMA-TGX-china",
-        "url": "https://github.com/o-murphy-tvt/TMA-TGX-china",
-        "owner": {
-          "login": "o-murphy-tvt",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
-          "url": "https://github.com/o-murphy-tvt"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51NxRt",
-      "closed": false,
-      "title": "Додати до репо шаблон issue",
-      "createdAt": "2023-10-28T10:50:08Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/25",
-      "number": 25,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-            "name": "Eugene Yaremenko",
-            "url": "https://github.com/JAremko"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls51KEOC",
-      "closed": true,
-      "title": "Додати drag-n-drop до перегляду файлів",
-      "createdAt": "2023-10-27T13:46:56Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/58",
-      "number": 58,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-            "name": "Eugene Yaremenko",
-            "url": "https://github.com/JAremko"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51J6A-",
-      "closed": false,
-      "title": "Прилад повністю зависає якщо щось із периферії на I2С не працює",
-      "createdAt": "2023-10-27T13:28:35Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/24",
-      "number": 24,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51J4ih",
-      "closed": true,
-      "title": "Вияснити структуру команди для налаштувань RTC",
-      "createdAt": "2023-10-27T13:26:24Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/23",
-      "number": 23,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51J3XE",
-      "closed": false,
-      "title": "Реалізувати в налаштуваннях вибір режиму зуму",
-      "createdAt": "2023-10-27T13:23:53Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/22",
+      "title": "protovalidate extremely slow",
+      "createdAt": "2025-05-12T16:45:13Z",
+      "url": "https://github.com/o-murphy/a7p/issues/22",
       "number": 22,
+      "updatedAt": "2025-05-12T16:47:50Z",
       "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
-            "name": null,
-            "url": "https://github.com/tortorino"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
+        "nodes": []
       },
       "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOKlRnMc51J2kq",
+      "id": "I_kwDOKNavAc62PoFB",
       "closed": false,
-      "title": "Занадто яскраве задвоєння пікселів кольорових сіток",
-      "createdAt": "2023-10-27T13:21:57Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/21",
+      "title": "async files operations too slow",
+      "createdAt": "2025-05-12T16:44:09Z",
+      "url": "https://github.com/o-murphy/a7p/issues/21",
       "number": 21,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51J1q1",
-      "closed": false,
-      "title": "Додати в налаштування приладу зміну коефіцієнта температурної чутливості пороху",
-      "createdAt": "2023-10-27T13:19:43Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/20",
-      "number": 20,
+      "updatedAt": "2025-05-12T16:44:49Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51Jxuq",
-      "closed": true,
-      "title": "Додати підтримку всіх використовуваних нами метеостанцій",
-      "createdAt": "2023-10-27T13:10:22Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/19",
-      "number": 19,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51I9Y0",
-      "closed": true,
-      "title": "Щодо зависання приладів",
-      "createdAt": "2023-10-27T11:01:53Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/16",
-      "number": 16,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls51ICns",
-      "closed": true,
-      "title": "Please add the \"About\" dialog where we can see the current app version",
-      "createdAt": "2023-10-27T08:37:20Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/56",
-      "number": 56,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-            "name": "Eugene Yaremenko",
-            "url": "https://github.com/JAremko"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51H6pw",
-      "closed": false,
-      "title": "Clicks in a7p proto and profiles migrations",
-      "createdAt": "2023-10-27T08:17:06Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/14",
-      "number": 14,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-            "name": "Eugene Yaremenko",
-            "url": "https://github.com/JAremko"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
-            "name": null,
-            "url": "https://github.com/tortorino"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
-            "name": null,
-            "url": "https://github.com/M-Volkov"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51HnFW",
-      "closed": true,
-      "title": "Device resets the settings on random turning on",
-      "createdAt": "2023-10-27T07:26:31Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/13",
-      "number": 13,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51BhaY",
-      "closed": true,
-      "title": "Can the factory fw load the default core's serial number to the info?",
-      "createdAt": "2023-10-26T11:37:07Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/9",
-      "number": 9,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51BHrM",
-      "closed": false,
-      "title": "Приховати юстування LRF",
-      "createdAt": "2023-10-26T10:40:52Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/8",
-      "number": 8,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51BGl4",
-      "closed": false,
-      "title": "Збільшити швидкість зміни дистанції",
-      "createdAt": "2023-10-26T10:38:05Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/7",
-      "number": 7,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51BE6d",
-      "closed": false,
-      "title": "Додати в налаштування приладу поправку датчика температури",
-      "createdAt": "2023-10-26T10:34:27Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/6",
-      "number": 6,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51BERX",
-      "closed": false,
-      "title": "Make the change of time and date in the settings cyclic",
-      "createdAt": "2023-10-26T10:33:00Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/5",
-      "number": 5,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/149048470?v=4",
-            "name": null,
-            "url": "https://github.com/SergeyTVT"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51A9bY",
-      "closed": false,
-      "title": "Cross still moving up after zeroing",
-      "createdAt": "2023-10-26T10:18:01Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/4",
-      "number": 4,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/30411314?v=4",
-            "name": null,
-            "url": "https://github.com/tortorino"
-          },
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls51AztI",
-      "closed": true,
-      "title": "Profile creation wizard refactoring",
-      "createdAt": "2023-10-26T09:56:15Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/54",
-      "number": 54,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOKlRnMc51AwoU",
-      "closed": true,
-      "title": "Automatic exit from USB mode",
-      "createdAt": "2023-10-26T09:49:21Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/3",
-      "number": 3,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
-            "name": null,
-            "url": "https://github.com/SVL101"
-          }
-        ]
-      },
-      "repository": {
-        "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHjeS2850OkCo",
-      "closed": false,
-      "title": "Add optional support of the Coriolis force",
-      "createdAt": "2023-10-18T15:03:12Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/36",
-      "number": 36,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "a7p",
+        "url": "https://github.com/o-murphy/a7p",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -864,98 +1436,145 @@
       }
     },
     {
-      "id": "I_kwDOHjeS2850OjaT",
-      "closed": false,
-      "title": "Refactor the unit.py module to make it simplier and flexible",
-      "createdAt": "2023-10-18T15:02:05Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/35",
-      "number": 35,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
-        "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHjeS2850N6P5",
+      "id": "I_kwDOGV6tIc6u06Qt",
       "closed": true,
-      "title": "Add the metods to take in account on other target's altitude onto plot",
-      "createdAt": "2023-10-18T13:47:07Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/34",
-      "number": 34,
+      "title": "Needed python version bump to 3.13",
+      "createdAt": "2025-03-19T20:36:04Z",
+      "url": "https://github.com/pyocd/libusb-package/issues/24",
+      "number": 24,
+      "updatedAt": "2025-04-01T14:56:48Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "libusb-package",
+        "url": "https://github.com/pyocd/libusb-package",
         "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
+          "login": "pyocd",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/67171792?v=4",
+          "url": "https://github.com/pyocd"
         }
       }
     },
     {
-      "id": "I_kwDOHjeS2850N4ji",
-      "closed": false,
-      "title": "Add optional backend for optimized calculations using pandas, numpy, etc",
-      "createdAt": "2023-10-18T13:44:31Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/33",
-      "number": 33,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
-        "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHjeS2850N3Ty",
-      "closed": false,
-      "title": "Find the way to provide more efficient methods of calculation",
-      "createdAt": "2023-10-18T13:42:40Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/32",
-      "number": 32,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
-        "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHjeS2850NvAQ",
+      "id": "I_kwDOJqOIXc6swtP_",
       "closed": true,
-      "title": "Update the README.md for the packages",
-      "createdAt": "2023-10-18T13:26:35Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/31",
-      "number": 31,
+      "title": "ERROR:pydfuutil.dfu_load do_upload cannot access local variable 'rc' where it is not associated with a value",
+      "createdAt": "2025-03-05T20:44:36Z",
+      "url": "https://github.com/o-murphy/pydfuutil/issues/17",
+      "number": 17,
+      "updatedAt": "2025-03-24T12:13:14Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS286nMlzq",
+      "closed": false,
+      "title": "_WindSock binary search instead of sequential read",
+      "createdAt": "2025-01-22T18:39:30Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/144",
+      "number": 144,
+      "updatedAt": "2025-02-27T16:17:07Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAQ7YPc6pS5pi",
+      "closed": false,
+      "title": "Temporary and async slots support",
+      "createdAt": "2025-02-08T22:20:55Z",
+      "url": "https://github.com/Numergy/signalslot/issues/22",
+      "number": 22,
+      "updatedAt": "2025-02-08T22:22:51Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "signalslot",
+        "url": "https://github.com/Numergy/signalslot",
+        "owner": {
+          "login": "Numergy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/3084264?v=4",
+          "url": "https://github.com/Numergy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS286nexsl",
+      "closed": true,
+      "title": "switch to trusted publishers instead of pypi tokens",
+      "createdAt": "2025-01-24T16:36:53Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/147",
+      "number": 147,
+      "updatedAt": "2025-01-25T18:38:38Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS286m6phv",
+      "closed": true,
+      "title": "Move bind_config, to _init_trajectory, _shot to the private attribute",
+      "createdAt": "2025-01-20T23:08:41Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/140",
+      "number": 140,
+      "updatedAt": "2025-01-22T18:36:58Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS286mw6Kt",
+      "closed": true,
+      "title": "refactor get_velocity_for_temp with get_velocity",
+      "createdAt": "2025-01-19T21:26:46Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/137",
+      "number": 137,
+      "updatedAt": "2025-01-20T21:19:10Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -965,17 +1584,18 @@
     },
     {
       "id": "I_kwDOHjeS2850Nugy",
-      "closed": false,
+      "closed": true,
       "title": "Create a full readable documentation",
       "createdAt": "2023-10-18T13:25:35Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/30",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/30",
       "number": 30,
+      "updatedAt": "2025-01-14T18:25:02Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -984,18 +1604,19 @@
       }
     },
     {
-      "id": "I_kwDOHjeS2850Gb6B",
+      "id": "I_kwDOHjeS286dbrVr",
       "closed": true,
-      "title": "Add an optional pure or cython based package installation",
-      "createdAt": "2023-10-17T16:46:01Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/27",
-      "number": 27,
+      "title": "Powder temperature for current atmo",
+      "createdAt": "2024-11-07T14:55:12Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/95",
+      "number": 95,
+      "updatedAt": "2025-01-14T17:49:45Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1004,18 +1625,19 @@
       }
     },
     {
-      "id": "I_kwDOHjeS2850GZGo",
-      "closed": true,
-      "title": "Update the library to python 3.12",
-      "createdAt": "2023-10-17T16:39:40Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/26",
-      "number": 26,
+      "id": "I_kwDOHjeS2850OkCo",
+      "closed": false,
+      "title": "Add optional support of the Coriolis force",
+      "createdAt": "2023-10-18T15:03:12Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/36",
+      "number": 36,
+      "updatedAt": "2025-01-13T23:37:44Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1024,264 +1646,124 @@
       }
     },
     {
-      "id": "I_kwDOJoVqls5z-OGK",
+      "id": "I_kwDOHjeS2850N3Ty",
       "closed": true,
-      "title": "Create a dev branch with a latest changes",
-      "createdAt": "2023-10-16T16:56:29Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/42",
-      "number": 42,
+      "title": "Find the way to provide more efficient methods of calculation",
+      "createdAt": "2023-10-18T13:42:40Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/32",
+      "number": 32,
+      "updatedAt": "2025-01-12T19:10:05Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5z-NUa",
+      "id": "I_kwDOHjeS286lS1zi",
       "closed": true,
-      "title": "Add to docs FAQ",
-      "createdAt": "2023-10-16T16:54:57Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/41",
-      "number": 41,
+      "title": "Performance of TrajFlag too slow if it's IntEnum ",
+      "createdAt": "2025-01-07T15:54:44Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/108",
+      "number": 108,
+      "updatedAt": "2025-01-10T13:45:31Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5z-JpF",
+      "id": "I_kwDOHjeS286ZStqH",
       "closed": true,
-      "title": "Complete translation of a BC type screen in wizard",
-      "createdAt": "2023-10-16T16:45:35Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/40",
-      "number": 40,
+      "title": "Bump to python 3.13",
+      "createdAt": "2024-10-08T01:08:16Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/94",
+      "number": 94,
+      "updatedAt": "2025-01-02T21:05:35Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5z9vIV",
-      "closed": false,
-      "title": "Add the powder sensitivity calculator to the app",
-      "createdAt": "2023-10-16T15:47:38Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/39",
-      "number": 39,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5z9f_F",
+      "id": "I_kwDOK5ACsc6JnXOo",
       "closed": true,
-      "title": "Update start dialog docs",
-      "createdAt": "2023-10-16T15:23:51Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/38",
-      "number": 38,
+      "title": "Need bump to v2",
+      "createdAt": "2024-05-21T17:44:10Z",
+      "url": "https://github.com/o-murphy/js-ballistics/issues/8",
+      "number": 8,
+      "updatedAt": "2024-11-27T10:14:33Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "js-ballistics",
+        "url": "https://github.com/o-murphy/js-ballistics",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5z7HjW",
-      "closed": false,
-      "title": "[PROPOSAL] Change a set of distances in profile edit mode",
-      "createdAt": "2023-10-16T10:22:13Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/35",
-      "number": 35,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5z7G9g",
-      "closed": false,
-      "title": "[PROPOSAL] Add a new one set of distances",
-      "createdAt": "2023-10-16T10:20:48Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/34",
-      "number": 34,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5z7GSN",
+      "id": "I_kwDOAeMypM6HKWiE",
       "closed": true,
-      "title": "Merge screens of BC-data properties in profile creator",
-      "createdAt": "2023-10-16T10:19:13Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/33",
+      "title": "qta-browser not starting with PyQt6==6.7.0 backend",
+      "createdAt": "2024-04-28T15:33:49Z",
+      "url": "https://github.com/spyder-ide/qtawesome/issues/261",
+      "number": 261,
+      "updatedAt": "2024-08-17T19:58:09Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "qtawesome",
+        "url": "https://github.com/spyder-ide/qtawesome",
+        "owner": {
+          "login": "spyder-ide",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1284937?v=4",
+          "url": "https://github.com/spyder-ide"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2850N4ji",
+      "closed": true,
+      "title": "Add optional backend for optimized calculations using pandas, numpy, etc",
+      "createdAt": "2023-10-18T13:44:31Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/33",
       "number": 33,
-      "assignees": {
-        "nodes": [
-          {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-            "name": "Eugene Yaremenko",
-            "url": "https://github.com/JAremko"
-          }
-        ]
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5zXBdk",
-      "closed": false,
-      "title": "Add the gallery of the profiles",
-      "createdAt": "2023-10-10T13:47:33Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/31",
-      "number": 31,
+      "updatedAt": "2024-08-16T14:58:28Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5zV6bw",
-      "closed": true,
-      "title": "[PROPOSAL] Dialog window always on top on app start",
-      "createdAt": "2023-10-10T11:25:18Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/30",
-      "number": 30,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5zVpYp",
-      "closed": true,
-      "title": "[BUG] Old app version don't uninstalling fully",
-      "createdAt": "2023-10-10T10:48:29Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/29",
-      "number": 29,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5zVk-c",
-      "closed": true,
-      "title": "[BUG] Two update processes in one time",
-      "createdAt": "2023-10-10T10:42:17Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/28",
-      "number": 28,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOHjeS285y6gq3",
-      "closed": true,
-      "title": "Zero given elevation unittests fails",
-      "createdAt": "2023-10-05T10:23:00Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/9",
-      "number": 9,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1290,152 +1772,55 @@
       }
     },
     {
-      "id": "I_kwDOACu7ec5wDovT",
+      "id": "I_kwDOAKk9Es6Qriu5",
       "closed": true,
-      "title": "shared libs builds with 32 bit arch instaead of 64 bit",
-      "createdAt": "2023-09-04T10:43:41Z",
-      "url": "https://github.com/kivy/python-for-android/issues/2888",
-      "number": 2888,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "python-for-android",
-        "url": "https://github.com/kivy/python-for-android",
-        "owner": {
-          "login": "kivy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1266152?v=4",
-          "url": "https://github.com/kivy"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5vxn26",
-      "closed": true,
-      "title": "Translation issue",
-      "createdAt": "2023-08-31T10:50:53Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/27",
-      "number": 27,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5vwGCu",
-      "closed": true,
-      "title": "[BUG] loading zero data owerwrites current profile",
-      "createdAt": "2023-08-31T06:38:52Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/26",
+      "title": "[question] How can i get demo access to wialon",
+      "createdAt": "2024-07-24T11:24:38Z",
+      "url": "https://github.com/wialon/python-wialon/issues/26",
       "number": 26,
+      "updatedAt": "2024-08-09T07:24:03Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "python-wialon",
+        "url": "https://github.com/wialon/python-wialon",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "wialon",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/4903778?u=370d1aa66c6485c16c84bf9abf95ad1ae9c68a32&v=4",
+          "url": "https://github.com/wialon"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5vwFhW",
+      "id": "I_kwDODUhI5M6PTOMK",
       "closed": false,
-      "title": "[PROPOSAL] Add auto backup for the profiles on it's open",
-      "createdAt": "2023-08-31T06:37:01Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/25",
-      "number": 25,
+      "title": "Interbase support",
+      "createdAt": "2024-07-11T21:43:44Z",
+      "url": "https://github.com/pauldex/sqlalchemy-firebird/issues/70",
+      "number": 70,
+      "updatedAt": "2024-07-11T21:43:44Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "sqlalchemy-firebird",
+        "url": "https://github.com/pauldex/sqlalchemy-firebird",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5vv9Kt",
-      "closed": true,
-      "title": "[PROPOSAL] Replace file tree to the side of app",
-      "createdAt": "2023-08-31T06:04:57Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/24",
-      "number": 24,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5vv8SM",
-      "closed": true,
-      "title": "Not an obvious access to actions",
-      "createdAt": "2023-08-31T06:01:10Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/23",
-      "number": 23,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5vv6zf",
-      "closed": true,
-      "title": "[PROPOSAL] add shortcuts",
-      "createdAt": "2023-08-31T05:54:42Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/22",
-      "number": 22,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "pauldex",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/7339259?u=cfbeb372615393ef03eca9a8a68806f9c66e0429&v=4",
+          "url": "https://github.com/pauldex"
         }
       }
     },
     {
       "id": "I_kwDOACu7ec5uwE9e",
-      "closed": false,
+      "closed": true,
       "title": "Fix sqlalchemy recipe",
       "createdAt": "2023-08-20T11:53:00Z",
       "url": "https://github.com/kivy/python-for-android/issues/2882",
       "number": 2882,
+      "updatedAt": "2024-07-11T21:22:07Z",
       "assignees": {
         "nodes": []
       },
@@ -1450,78 +1835,103 @@
       }
     },
     {
-      "id": "I_kwDOJ90I5s5uTZgO",
+      "id": "I_kwDOACNVss6I0_et",
       "closed": true,
-      "title": "Some additional files not incluses to build",
-      "createdAt": "2023-08-14T21:36:33Z",
-      "url": "https://github.com/o-murphy/eballistica_app/issues/16",
-      "number": 16,
+      "title": "[question] Is there some fake backend?",
+      "createdAt": "2024-05-14T14:13:59Z",
+      "url": "https://github.com/pyusb/pyusb/issues/516",
+      "number": 516,
+      "updatedAt": "2024-07-11T01:28:59Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "eballistica_app",
-        "url": "https://github.com/o-murphy/eballistica_app",
+        "name": "pyusb",
+        "url": "https://github.com/pyusb/pyusb",
         "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
+          "login": "pyusb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/33545828?v=4",
+          "url": "https://github.com/pyusb"
         }
       }
     },
     {
-      "id": "I_kwDOJ90I5s5uTTrZ",
+      "id": "I_kwDOACNVss6Ip7fS",
       "closed": true,
-      "title": "Set limits for Numeric fields",
-      "createdAt": "2023-08-14T21:18:07Z",
-      "url": "https://github.com/o-murphy/eballistica_app/issues/15",
-      "number": 15,
+      "title": "[question] UsbError description",
+      "createdAt": "2024-05-13T12:31:50Z",
+      "url": "https://github.com/pyusb/pyusb/issues/515",
+      "number": 515,
+      "updatedAt": "2024-07-11T01:28:40Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "eballistica_app",
-        "url": "https://github.com/o-murphy/eballistica_app",
+        "name": "pyusb",
+        "url": "https://github.com/pyusb/pyusb",
         "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
+          "login": "pyusb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/33545828?v=4",
+          "url": "https://github.com/pyusb"
         }
       }
     },
     {
-      "id": "I_kwDOJ90I5s5uTTXJ",
+      "id": "I_kwDOACNVss6IlmD4",
       "closed": true,
-      "title": "Add local database binds",
-      "createdAt": "2023-08-14T21:17:17Z",
-      "url": "https://github.com/o-murphy/eballistica_app/issues/14",
-      "number": 14,
+      "title": "The library need a stub-files to simplify usage",
+      "createdAt": "2024-05-12T23:48:47Z",
+      "url": "https://github.com/pyusb/pyusb/issues/513",
+      "number": 513,
+      "updatedAt": "2024-07-10T02:07:21Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "eballistica_app",
-        "url": "https://github.com/o-murphy/eballistica_app",
+        "name": "pyusb",
+        "url": "https://github.com/pyusb/pyusb",
         "owner": {
-          "login": "o-murphy",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
-          "url": "https://github.com/o-murphy"
+          "login": "pyusb",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/33545828?v=4",
+          "url": "https://github.com/pyusb"
         }
       }
     },
     {
-      "id": "I_kwDOJ90I5s5uJYXF",
+      "id": "I_kwDOJoVqls6LqPmt",
+      "closed": false,
+      "title": "Діалоги не відображаються в панелі завдань",
+      "createdAt": "2024-06-10T07:35:36Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/70",
+      "number": 70,
+      "updatedAt": "2024-06-10T07:35:36Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJqOIXc6IPFAP",
       "closed": true,
-      "title": "App closes with Key error",
-      "createdAt": "2023-08-12T11:33:33Z",
-      "url": "https://github.com/o-murphy/eballistica_app/issues/13",
+      "title": "Bump functionality to dfu-util-0.11 ",
+      "createdAt": "2024-05-08T13:48:37Z",
+      "url": "https://github.com/o-murphy/pydfuutil/issues/13",
       "number": 13,
+      "updatedAt": "2024-05-14T19:00:48Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "eballistica_app",
-        "url": "https://github.com/o-murphy/eballistica_app",
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1530,18 +1940,19 @@
       }
     },
     {
-      "id": "I_kwDOJ90I5s5t_9nk",
+      "id": "I_kwDOJqOIXc58G_8p",
       "closed": true,
-      "title": "Can't compile apk",
-      "createdAt": "2023-08-10T16:04:46Z",
-      "url": "https://github.com/o-murphy/eballistica_app/issues/5",
+      "title": "Writting unittests",
+      "createdAt": "2024-01-15T15:01:39Z",
+      "url": "https://github.com/o-murphy/pydfuutil/issues/5",
       "number": 5,
+      "updatedAt": "2024-05-05T23:39:16Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "eballistica_app",
-        "url": "https://github.com/o-murphy/eballistica_app",
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1550,92 +1961,139 @@
       }
     },
     {
-      "id": "I_kwDOCL2OjM5tomsp",
-      "closed": false,
-      "title": "Add please native int and float spinbox to uix",
-      "createdAt": "2023-08-07T12:33:56Z",
-      "url": "https://github.com/kivymd/KivyMD/issues/1537",
-      "number": 1537,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "KivyMD",
-        "url": "https://github.com/kivymd/KivyMD",
-        "owner": {
-          "login": "kivymd",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/12729247?v=4",
-          "url": "https://github.com/kivymd"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5th-RB",
+      "id": "I_kwDOB5XGSc6B4zhK",
       "closed": true,
-      "title": "[BUG] App freezes after closing file open/save dialogs",
-      "createdAt": "2023-08-05T07:15:50Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/21",
-      "number": 21,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5tdP8B",
-      "closed": true,
-      "title": "[PROPOSAL] Units of measurement conversion",
-      "createdAt": "2023-08-04T09:20:31Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/20",
+      "title": "Unrequested response",
+      "createdAt": "2024-03-11T13:34:23Z",
+      "url": "https://github.com/alexwoo1900/ymodem/issues/20",
       "number": 20,
+      "updatedAt": "2024-04-08T05:57:50Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "ymodem",
+        "url": "https://github.com/alexwoo1900/ymodem",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "alexwoo1900",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30644144?u=acf78fb5a6c9cd0d7223f3b550f31160846eed7b&v=4",
+          "url": "https://github.com/alexwoo1900"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5tdOqY",
+      "id": "I_kwDOAeMypM58hWv7",
       "closed": false,
-      "title": "[PROPOSAL] CDM export/import/editing",
-      "createdAt": "2023-08-04T09:16:58Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/19",
-      "number": 19,
+      "title": "[Question] material symbols extension",
+      "createdAt": "2024-01-18T22:03:24Z",
+      "url": "https://github.com/spyder-ide/qtawesome/issues/256",
+      "number": 256,
+      "updatedAt": "2024-03-27T22:12:12Z",
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
+        "name": "qtawesome",
+        "url": "https://github.com/spyder-ide/qtawesome",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "spyder-ide",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1284937?v=4",
+          "url": "https://github.com/spyder-ide"
         }
       }
     },
     {
-      "id": "I_kwDOJoVqls5tdMN9",
+      "id": "I_kwDOB5XGSc6CYIcv",
       "closed": true,
-      "title": "[PROPOSAL] Use app specific directory as default directory to saving profiles",
-      "createdAt": "2023-08-04T09:10:02Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/18",
+      "title": "Alternative progressbar",
+      "createdAt": "2024-03-14T22:20:44Z",
+      "url": "https://github.com/alexwoo1900/ymodem/issues/21",
+      "number": 21,
+      "updatedAt": "2024-03-27T01:16:13Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ymodem",
+        "url": "https://github.com/alexwoo1900/ymodem",
+        "owner": {
+          "login": "alexwoo1900",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30644144?u=acf78fb5a6c9cd0d7223f3b550f31160846eed7b&v=4",
+          "url": "https://github.com/alexwoo1900"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2856vnwP",
+      "closed": true,
+      "title": "Refactoring to got a calculation of adjustment relative to sight zero line",
+      "createdAt": "2023-12-29T10:44:26Z",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/46",
+      "number": 46,
+      "updatedAt": "2024-03-15T07:07:03Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB5XGSc5-NKs8",
+      "closed": true,
+      "title": "Sender EOT issue",
+      "createdAt": "2024-02-04T23:32:24Z",
+      "url": "https://github.com/alexwoo1900/ymodem/issues/18",
       "number": 18,
+      "updatedAt": "2024-03-04T16:32:00Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ymodem",
+        "url": "https://github.com/alexwoo1900/ymodem",
+        "owner": {
+          "login": "alexwoo1900",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30644144?u=acf78fb5a6c9cd0d7223f3b550f31160846eed7b&v=4",
+          "url": "https://github.com/alexwoo1900"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEEI1tc58FlKx",
+      "closed": true,
+      "title": "Add pyinstaller hook for celpy",
+      "createdAt": "2024-01-15T11:28:49Z",
+      "url": "https://github.com/cloud-custodian/cel-python/issues/52",
+      "number": 52,
+      "updatedAt": "2024-02-26T12:12:48Z",
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cel-python",
+        "url": "https://github.com/cloud-custodian/cel-python",
+        "owner": {
+          "login": "cloud-custodian",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38811484?v=4",
+          "url": "https://github.com/cloud-custodian"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5zXBdk",
+      "closed": true,
+      "title": "Add the gallery of the profiles",
+      "createdAt": "2023-10-10T13:47:33Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/31",
+      "number": 31,
+      "updatedAt": "2024-02-26T11:25:30Z",
       "assignees": {
         "nodes": []
       },
@@ -1646,170 +2104,10 @@
           "login": "JAremko",
           "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
           "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5tdKb4",
-      "closed": true,
-      "title": "[PROPOSAL] Propose file name on it's saving, Use system file dialogs",
-      "createdAt": "2023-08-04T09:04:55Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/17",
-      "number": 17,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5tdHmM",
-      "closed": true,
-      "title": "[PROPOSAL] Display a profile metadata of .a7p file on click it in files explorer",
-      "createdAt": "2023-08-04T08:56:46Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/16",
-      "number": 16,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5tdELM",
-      "closed": true,
-      "title": "Accept dot and coma symbols as floating point number field separator",
-      "createdAt": "2023-08-04T08:46:52Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/15",
-      "number": 15,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOJoVqls5tdCLG",
-      "closed": true,
-      "title": "[PROPOSAL] Visualisation of short-name-bot and short-name-top",
-      "createdAt": "2023-08-04T08:41:02Z",
-      "url": "https://github.com/JAremko/ArcherBC2/issues/14",
-      "number": 14,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "ArcherBC2",
-        "url": "https://github.com/JAremko/ArcherBC2",
-        "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOAjGXhs5ntgqq",
-      "closed": false,
-      "title": "Error when sleep() in trange with rich",
-      "createdAt": "2023-06-03T23:19:50Z",
-      "url": "https://github.com/tqdm/tqdm/issues/1476",
-      "number": 1476,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "tqdm",
-        "url": "https://github.com/tqdm/tqdm",
-        "owner": {
-          "login": "tqdm",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/12731565?v=4",
-          "url": "https://github.com/tqdm"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOEVbSas5YB-he",
-      "closed": true,
-      "title": "I made a fork for aiogram 3",
-      "createdAt": "2022-12-05T16:18:13Z",
-      "url": "https://github.com/noXplode/aiogram_calendar/issues/6",
-      "number": 6,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "aiogram_calendar",
-        "url": "https://github.com/noXplode/aiogram_calendar",
-        "owner": {
-          "login": "noXplode",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/64505618?v=4",
-          "url": "https://github.com/noXplode"
-        }
-      }
-    },
-    {
-      "id": "I_kwDOC9PN385MyjgT",
-      "closed": true,
-      "title": "division by zero in func Trajectory, unit test can't be complete",
-      "createdAt": "2022-06-29T07:57:59Z",
-      "url": "https://github.com/gehtsoft-usa/go_ballisticcalc/issues/2",
-      "number": 2,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "go_ballisticcalc",
-        "url": "https://github.com/gehtsoft-usa/go_ballisticcalc",
-        "owner": {
-          "login": "gehtsoft-usa",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/48291690?v=4",
-          "url": "https://github.com/gehtsoft-usa"
-        }
-      }
-    },
-    {
-      "id": "MDU6SXNzdWU3NTYxMDQ5NzY=",
-      "closed": true,
-      "title": "Where the method \"copyMessage\"?",
-      "createdAt": "2020-12-03T11:18:27Z",
-      "url": "https://github.com/eternnoir/pyTelegramBotAPI/issues/1031",
-      "number": 1031,
-      "assignees": {
-        "nodes": []
-      },
-      "repository": {
-        "name": "pyTelegramBotAPI",
-        "url": "https://github.com/eternnoir/pyTelegramBotAPI",
-        "owner": {
-          "login": "eternnoir",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1109538?v=4",
-          "url": "https://github.com/eternnoir"
         }
       }
     }
   ],
-  "open": 34,
-  "totalCount": 81
+  "open": 57,
+  "totalCount": 100
 }
