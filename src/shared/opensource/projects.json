@@ -1,80 +1,94 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "id": "R_kgDOHjeS2w",
       "name": "py_ballisticcalc",
-      "createdAt": "",
-      "url": "https://github.com/o-murphy/py-ballisticcalc",
-      "description": "🔥 LGPL library for small arms ballistic calculations (Python 3.9+)",
+      "createdAt": "2022-06-24T09:49:24Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc",
+      "description": "LGPL library for small arms ballistic calculations (Python 3)",
       "isFork": false,
       "languages": [
         {
-          "name": "Python3",
+          "name": "Python",
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Cython",
-          "iconifyClass": "logos-c"
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA=",
-      "name": "py-aiowialon",
-      "createdAt": "",
-      "url": "https://github.com/o-murphy/py-aiowialon",
-      "description": "🚀 AIO Wialon is an async realisation of Python wrapper for Remote Api",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python3",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk",
-      "name": "py-balcalc",
-      "createdAt": "",
-      "url": "https://github.com/o-murphy/py-balcalc",
-      "description": "🔥 Desktop gui for py-ballisticcalc library",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python3",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Python3",
-          "iconifyClass": "logos-qt"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ=",
-      "name": "aiogram3_calendar",
-      "createdAt": "",
-      "url": "https://github.com/o-murphy/aiogram3_calendar",
-      "description": "📅 A simple inline calendar, date selection tool for aiogram telegram bots written in Python",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python3",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ=",
+      "id": "R_kgDOJqOIXQ",
       "name": "pydfuutil",
-      "createdAt": "",
+      "createdAt": "2023-06-01T14:38:26Z",
       "url": "https://github.com/o-murphy/pydfuutil",
-      "description": "🔥 Pure python fork of dfu-util wrappers to libusb",
+      "description": "PyDfuUtil - Pure python realisation of dfu-util wrappers to libusb",
       "isFork": false,
       "languages": [
         {
-          "name": "Python3",
+          "name": "Python",
           "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOIj1r-g",
+      "name": "aiogram3_calendar",
+      "createdAt": "2022-12-05T10:43:54Z",
+      "url": "https://github.com/o-murphy/aiogram3_calendar",
+      "description": "Date Selection tool & Inline calendar for Aiogram telegram bots (aiogram 3.x.x fork) ",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGtMrFA",
+      "name": "py-aiowialon",
+      "createdAt": "2022-01-20T10:14:39Z",
+      "url": "https://github.com/o-murphy/py-aiowialon",
+      "description": "AIO Wialon is an async realisation of Python wrapper for Remote Api",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOKtR8eA",
+      "name": "infiray-lrf",
+      "createdAt": "2023-11-14T11:01:12Z",
+      "url": "https://github.com/o-murphy/infiray-lrf",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJ90I5g",
+      "name": "eballistica_app",
+      "createdAt": "2023-07-20T15:57:19Z",
+      "url": "https://github.com/o-murphy/eballistica_app",
+      "description": "Cross-platform app for small arms ballistic calculations",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
         }
       ]
     }
