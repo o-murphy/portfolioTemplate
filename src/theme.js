@@ -225,11 +225,17 @@ const svgTheme = {
 };
 
 const chosenTheme = materialDarkTheme;
+// const chosenSvgTheme = {
+//   ...svgTheme,
+//   highlight: chosenTheme.expTxtColor,
+//   splashDark: chosenTheme.dark,
+// };
+
 const chosenSvgTheme = {
   ...svgTheme,
-  // highlight: "magenta",
-  highlight: chosenTheme.expTxtColor,
-  // splashDark: chosenTheme.highlight
+  deepSpaceSparkle: "#5b6b6e",
+  highlight: "#4bbecf",
+  outerSpace: "#295962",
   splashDark: chosenTheme.dark,
 };
 
