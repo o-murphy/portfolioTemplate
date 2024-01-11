@@ -10,6 +10,10 @@ import DesignImg from "./DesignImg";
 import Py4Android from "./Py4Android";
 import Micropython from "./Micropython";
 import Telematics from "./Telematics";
+import MSingleBoard from "./MSingleBoard";
+import MRestfull from "./MRestfull";
+import MP4A from "./MP4A";
+import MEmbedded from "./MEmbedded";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
@@ -24,6 +28,13 @@ function GetSkillSvg(props) {
     return <Micropython theme={props.theme} />;
   else if (props.fileName === "Telematics")
     return <Telematics theme={props.theme} />;
+  else if (props.fileName === "MSingleBoard")
+    return <MSingleBoard theme={props.theme} />;
+  else if (props.fileName === "MRestfull")
+    return <MRestfull theme={props.theme} />;
+  else if (props.fileName === "MP4A") return <MP4A theme={props.theme} />;
+  else if (props.fileName === "MEmbedded")
+    return <MEmbedded theme={props.theme} />;
   return <DesignImg theme={props.theme} />;
 }
 

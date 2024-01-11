@@ -1,6 +1,8 @@
 /* Change this file to get your personal Porfolio */
 
 // Website related settings
+import MEmbedded from "./containers/skills/MEmbedded";
+
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
@@ -100,7 +102,7 @@ const skills = {
   data: [
     {
       title: "Desktop and SingleBoard Apps",
-      fileName: "DataScienceImg", // FIXME
+      fileName: "MSingleBoard", // FIXME
       skills: [
         "⚡ Complex desktop apps using most popular GUI frameworks",
         "⚡ Kiosk mode apps for single-board computers",
@@ -172,7 +174,7 @@ const skills = {
     },
     {
       title: "RESTfull with Python", // FIXME
-      fileName: "FullStackImg",
+      fileName: "MRestfull",
       skills: [
         "⚡ Creating application backend in Django & Flask",
         "⚡ Building an architecture of a web service's with RESTfull API",
@@ -217,7 +219,7 @@ const skills = {
 
     {
       title: "Python for Android",
-      fileName: "Py4Android", // FIXME
+      fileName: "MP4A", // FIXME
       skills: [
         "⚡ Designing highly attractive user interface for mobile applications",
         "⚡ Creating the flow of application functionalities to optimize user experience",
@@ -251,7 +253,7 @@ const skills = {
     },
     {
       title: "Micropython and Embedded",
-      fileName: "Micropython", // FIXME
+      fileName: "MEmbedded", // FIXME
       skills: [
         "⚡ Creating embedded solutions for microcontrollers using Micropython",
       ],
