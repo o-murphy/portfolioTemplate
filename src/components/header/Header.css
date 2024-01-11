@@ -59,7 +59,7 @@
 
 /* menu icon */
 
-.header .menu-icon {
+.header .menu-icon .fa-bars-icon {
   cursor: pointer;
   display: inline-block;
   float: right;
@@ -68,7 +68,7 @@
   user-select: none;
 }
 
-.header .menu-icon .navicon {
+.header .menu-icon .navicon .fa-bars-icon {
   background: #333;
   display: block;
   height: 2px;
