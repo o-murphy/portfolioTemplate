@@ -1,6 +1,112 @@
 {
-  "closed": 47,
+  "closed": 52,
   "data": [
+    {
+      "id": "I_kwDOKFJzkM57fcux",
+      "closed": true,
+      "title": "Add description to each release",
+      "createdAt": "2024-01-09T08:09:35Z",
+      "url": "https://github.com/JAremko/ArcherBC2_testing/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+            "name": "Dmytro Yaroshenko",
+            "url": "https://github.com/o-murphy"
+          }
+        ]
+      },
+      "repository": {
+        "name": "ArcherBC2_testing",
+        "url": "https://github.com/JAremko/ArcherBC2_testing",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2856vnwP",
+      "closed": false,
+      "title": "Refactoring to got a calculation of adjustment relative to sight zero line",
+      "createdAt": "2023-12-29T10:44:26Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/46",
+      "number": 46,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOHjeS2856VIp8",
+      "closed": true,
+      "title": "until_distance() in _trajectory() have to be replaced with until_distance, cause of property",
+      "createdAt": "2023-12-21T12:45:26Z",
+      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/41",
+      "number": 41,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "py_ballisticcalc",
+        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOK5ACsc55gnRr",
+      "closed": true,
+      "title": "Change Licence in README.md",
+      "createdAt": "2023-12-12T21:43:18Z",
+      "url": "https://github.com/o-murphy/js-ballistics/issues/1",
+      "number": 1,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "js-ballistics",
+        "url": "https://github.com/o-murphy/js-ballistics",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEL3u5M55dv8E",
+      "closed": true,
+      "title": "Apply margins fix from react-native-paper",
+      "createdAt": "2023-12-12T14:12:02Z",
+      "url": "https://github.com/fateh999/react-native-paper-dropdown/issues/102",
+      "number": 102,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "react-native-paper-dropdown",
+        "url": "https://github.com/fateh999/react-native-paper-dropdown",
+        "owner": {
+          "login": "fateh999",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16474502?u=32c9d169fee3a1ec9431b4f0a2c6b75d0606489b&v=4",
+          "url": "https://github.com/fateh999"
+        }
+      }
+    },
     {
       "id": "I_kwDOEVbSas54Pkaw",
       "closed": false,
@@ -339,7 +445,7 @@
     },
     {
       "id": "I_kwDOKlRnMc51J6A-",
-      "closed": false,
+      "closed": true,
       "title": "Прилад повністю зависає якщо щось із периферії на I2С не працює",
       "createdAt": "2023-10-27T13:28:35Z",
       "url": "https://github.com/JAremko/AR612-issues/issues/24",
@@ -784,6 +890,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
             "name": null,
             "url": "https://github.com/SVL101"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/149047566?v=4",
+            "name": null,
+            "url": "https://github.com/M-Volkov"
           }
         ]
       },
@@ -1811,5 +1922,5 @@
     }
   ],
   "open": 34,
-  "totalCount": 81
+  "totalCount": 86
 }
