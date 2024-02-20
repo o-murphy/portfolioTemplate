@@ -6,6 +6,11 @@
       "__typename": "Organization"
     },
     {
+      "login": "spyder-ide",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1284937?v=4",
+      "__typename": "Organization"
+    },
+    {
       "login": "tqdm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12731565?v=4",
       "__typename": "Organization"
@@ -13,6 +18,16 @@
     {
       "login": "kivymd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/12729247?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "pyinstaller",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1215332?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "cloud-custodian",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38811484?v=4",
       "__typename": "Organization"
     },
     {

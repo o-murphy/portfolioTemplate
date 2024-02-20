@@ -2,9 +2,9 @@
   "data": [
     {
       "id": "R_kgDOHjeS2w",
-      "name": "py_ballisticcalc",
+      "name": "py-ballisticcalc",
       "createdAt": "2022-06-24T09:49:24Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc",
+      "url": "https://github.com/o-murphy/py-ballisticcalc",
       "description": "LGPL library for small arms ballistic calculations (Python 3)",
       "isFork": false,
       "languages": [
@@ -13,8 +13,30 @@
           "iconifyClass": "logos-python"
         },
         {
+          "name": "Cython",
+          "iconifyClass": "vscode-icons:file-type-cython"
+        },
+        {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOK5ACsQ",
+      "name": "js-ballistics",
+      "createdAt": "2023-12-12T20:36:20Z",
+      "url": "https://github.com/o-murphy/js-ballistics",
+      "description": "ISC library for small arms ballistic calculations (JavaScript ES6+)",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "devicon-typescript"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
@@ -33,16 +55,16 @@
       ]
     },
     {
-      "id": "R_kgDOK5ACsQ",
-      "name": "js-ballistics",
-      "createdAt": "2023-12-12T20:36:20Z",
-      "url": "https://github.com/o-murphy/js-ballistics",
-      "description": "ISC library for small arms ballistic calculations (JavaScript ES6+)",
-      "isFork": false,
+      "id": "R_kgDOGtMrFA",
+      "name": "py-aiowialon",
+      "createdAt": "2022-01-20T10:14:39Z",
+      "url": "https://github.com/o-murphy/py-aiowialon",
+      "description": "AIO Wialon is an async realisation of Python wrapper for Remote Api",
+      "isFork": true,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
@@ -61,16 +83,20 @@
       ]
     },
     {
-      "id": "R_kgDOGtMrFA",
-      "name": "py-aiowialon",
-      "createdAt": "2022-01-20T10:14:39Z",
-      "url": "https://github.com/o-murphy/py-aiowialon",
-      "description": "AIO Wialon is an async realisation of Python wrapper for Remote Api",
-      "isFork": true,
+      "id": "R_kgDOLFeMyQ",
+      "name": "QtMDi",
+      "createdAt": "2024-01-16T09:52:03Z",
+      "url": "https://github.com/o-murphy/QtMDi",
+      "description": "The extension for QtAwesome with the latest variable icon fonts for Material Symbols",
+      "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Qt",
+          "iconifyClass": "devicon-qt"
         }
       ]
     }

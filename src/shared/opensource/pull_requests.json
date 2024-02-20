@@ -204,7 +204,7 @@
     {
       "id": "PR_kwDOHjeS285i7gq2",
       "title": "trajectory refactoring",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/45",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/45",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -217,8 +217,8 @@
       "additions": 97,
       "deletions": 59,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -254,7 +254,7 @@
     {
       "id": "PR_kwDOHjeS285i1bKE",
       "title": "Fix not extra dataframe",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/44",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/44",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -267,8 +267,8 @@
       "additions": 441,
       "deletions": 15,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -304,7 +304,7 @@
     {
       "id": "PR_kwDOHjeS285iqSFl",
       "title": "build-n-test-before-deploy",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/43",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/43",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -317,8 +317,8 @@
       "additions": 121,
       "deletions": 0,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -329,7 +329,7 @@
     {
       "id": "PR_kwDOHjeS285iqLPq",
       "title": "v1.1.2-until_distance-fix",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/42",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/42",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -342,8 +342,8 @@
       "additions": 4,
       "deletions": 4,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -504,7 +504,7 @@
     {
       "id": "PR_kwDOHjeS285huaF8",
       "title": "funding",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/40",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/40",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -517,8 +517,8 @@
       "additions": 13,
       "deletions": 0,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -846,7 +846,7 @@
     {
       "id": "PR_kwDOHjeS285fFaz6",
       "title": "V1.1.1b0",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/39",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/39",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -859,8 +859,8 @@
       "additions": 701,
       "deletions": 116,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1163,7 +1163,7 @@
     {
       "id": "PR_kwDOHjeS285dIxgV",
       "title": "Cython optional",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/29",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/29",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1176,8 +1176,8 @@
       "additions": 601,
       "deletions": 168,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1188,7 +1188,7 @@
     {
       "id": "PR_kwDOHjeS285dCj4e",
       "title": "Python3.12-support-tests",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/28",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/28",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1201,8 +1201,8 @@
       "additions": 242,
       "deletions": 127,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1213,7 +1213,7 @@
     {
       "id": "PR_kwDOHjeS285dA7x-",
       "title": "* added pure python mode support",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/25",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/25",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1226,8 +1226,8 @@
       "additions": 236,
       "deletions": 121,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1238,7 +1238,7 @@
     {
       "id": "PR_kwDOHjeS285dAEYR",
       "title": "Danger space review",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/24",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/24",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1251,8 +1251,8 @@
       "additions": 609,
       "deletions": 529,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1263,7 +1263,7 @@
     {
       "id": "PR_kwDOHjeS285dAB6Z",
       "title": "Danger space added",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/23",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/23",
       "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2023-10-17T10:38:31Z",
@@ -1272,8 +1272,8 @@
       "additions": 570,
       "deletions": 523,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1384,7 +1384,7 @@
     {
       "id": "PR_kwDOHjeS285ct7gy",
       "title": "Interface remake",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/20",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/20",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1397,8 +1397,8 @@
       "additions": 945,
       "deletions": 312,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1409,7 +1409,7 @@
     {
       "id": "PR_kwDOHjeS285ctxZt",
       "title": "Interface remake",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/19",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/19",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1422,8 +1422,8 @@
       "additions": 781,
       "deletions": 232,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1434,7 +1434,7 @@
     {
       "id": "PR_kwDOHjeS285ctv6O",
       "title": "Interface remake1",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/18",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/18",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1447,8 +1447,8 @@
       "additions": 188,
       "deletions": 107,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1501,7 +1501,7 @@
     {
       "id": "PR_kwDOHjeS285ciki1",
       "title": "Update issue templates",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/16",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/16",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1514,8 +1514,8 @@
       "additions": 32,
       "deletions": 0,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1547,7 +1547,7 @@
     {
       "id": "PR_kwDOHjeS285cV2eb",
       "title": "Zero elevation",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/15",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/15",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1560,8 +1560,8 @@
       "additions": 248,
       "deletions": 152,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1572,7 +1572,7 @@
     {
       "id": "PR_kwDOHjeS285cAuwL",
       "title": "Added deploy workflows",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/13",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/13",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1585,8 +1585,8 @@
       "additions": 35,
       "deletions": 29,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1597,7 +1597,7 @@
     {
       "id": "PR_kwDOHjeS285cAQyQ",
       "title": "Create test.yml",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/12",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/12",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1610,8 +1610,8 @@
       "additions": 57,
       "deletions": 0,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1622,7 +1622,7 @@
     {
       "id": "PR_kwDOHjeS285b_km2",
       "title": "Resolved conflicts with master",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/11",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/11",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1635,8 +1635,8 @@
       "additions": 451,
       "deletions": 304,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1647,7 +1647,7 @@
     {
       "id": "PR_kwDOHjeS285b_hs-",
       "title": "Refactor",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/10",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/10",
       "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2023-10-05T10:30:57Z",
@@ -1656,8 +1656,8 @@
       "additions": 3808,
       "deletions": 3560,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1668,7 +1668,7 @@
     {
       "id": "PR_kwDOHjeS285b2J2g",
       "title": "update to v1.1.x",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/7",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/7",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1681,8 +1681,8 @@
       "additions": 3661,
       "deletions": 3560,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1693,7 +1693,7 @@
     {
       "id": "PR_kwDOHjeS285b2JaA",
       "title": "added workflows",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/6",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/6",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1706,8 +1706,8 @@
       "additions": 1215,
       "deletions": 444,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1718,7 +1718,7 @@
     {
       "id": "PR_kwDOHjeS285b0ZZo",
       "title": "improved performance",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/5",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/5",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1731,8 +1731,8 @@
       "additions": 216,
       "deletions": 254,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1743,7 +1743,7 @@
     {
       "id": "PR_kwDOHjeS285bKm0L",
       "title": "updated tests",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/4",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/4",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1756,8 +1756,8 @@
       "additions": 47,
       "deletions": 399,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1768,7 +1768,7 @@
     {
       "id": "PR_kwDOHjeS285bKhbk",
       "title": "Created main intefaces, globall settings class and powder sencitivity correction support",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/3",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/3",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1781,8 +1781,8 @@
       "additions": 452,
       "deletions": 272,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",
@@ -1793,7 +1793,7 @@
     {
       "id": "PR_kwDOHjeS285bBib2",
       "title": "Refactoring",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/pull/2",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/pull/2",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1806,8 +1806,8 @@
       "additions": 350,
       "deletions": 276,
       "baseRepository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
           "login": "o-murphy",

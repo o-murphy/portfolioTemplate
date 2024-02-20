@@ -202,7 +202,7 @@ const svgTheme = {
   highlight: "#ba68c8",
   splash: "#37474f",
   splashDark: "#263238",
-  hair: "#cba773",
+  hair: "#cba773", // brownYellow
   deepSpaceSparkle: "#455a64",
   cultured: "#f5f5f5",
   platinum: "#e6e6e6",
@@ -212,7 +212,6 @@ const svgTheme = {
   outerSpace: "#444247",
   antiFlashWhite: "#f0f0f0",
   antiFlashWhite2: "#f3f3f3",
-  // brownYellow: "#cda964",
   macaroniAndCheese: "#f6af8c",
   lightFrenchBeige: "#cba773",
   copper: "#e18966",

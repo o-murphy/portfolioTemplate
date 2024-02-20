@@ -1,6 +1,232 @@
 {
-  "closed": 52,
+  "closed": 61,
   "data": [
+    {
+      "id": "I_kwDOKlRnMc5-Z27v",
+      "closed": false,
+      "title": "Оновлення 0.52",
+      "createdAt": "2024-02-06T12:52:06Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/34",
+      "number": 34,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/64700621?v=4",
+            "name": null,
+            "url": "https://github.com/SVL101"
+          }
+        ]
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJoVqls5-YigQ",
+      "closed": true,
+      "title": "Виправлення стилю іконок налаштувань і властивостей вимкненого стану",
+      "createdAt": "2024-02-06T09:47:16Z",
+      "url": "https://github.com/JAremko/ArcherBC2/issues/63",
+      "number": 63,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ArcherBC2",
+        "url": "https://github.com/JAremko/ArcherBC2",
+        "owner": {
+          "login": "JAremko",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
+          "url": "https://github.com/JAremko"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc5-YKxJ",
+      "closed": false,
+      "title": "OTG не працює",
+      "createdAt": "2024-02-06T08:53:50Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/33",
+      "number": 33,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc5-RZiJ",
+      "closed": true,
+      "title": "Далекомір не працює на останных прошивках!",
+      "createdAt": "2024-02-05T13:00:06Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/32",
+      "number": 32,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc5-PZoG",
+      "closed": true,
+      "title": "Після оновлення зависає на \"рівень відкалібровано\"",
+      "createdAt": "2024-02-05T08:38:47Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/31",
+      "number": 31,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOB5XGSc5-NKs8",
+      "closed": false,
+      "title": "Sender EOT issue",
+      "createdAt": "2024-02-04T23:32:24Z",
+      "url": "https://github.com/alexwoo1900/ymodem/issues/18",
+      "number": 18,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "ymodem",
+        "url": "https://github.com/alexwoo1900/ymodem",
+        "owner": {
+          "login": "alexwoo1900",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/30644144?u=acf78fb5a6c9cd0d7223f3b550f31160846eed7b&v=4",
+          "url": "https://github.com/alexwoo1900"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc597lzF",
+      "closed": true,
+      "title": "Інверсія не працює одразу після ребуту",
+      "createdAt": "2024-02-01T15:17:28Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/30",
+      "number": 30,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOKlRnMc5932BJ",
+      "closed": true,
+      "title": "Розсипається сітка",
+      "createdAt": "2024-02-01T07:56:51Z",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/29",
+      "number": 29,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
+        "owner": {
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOAeMypM58hWv7",
+      "closed": false,
+      "title": "[Question] material symbols extension",
+      "createdAt": "2024-01-18T22:03:24Z",
+      "url": "https://github.com/spyder-ide/qtawesome/issues/256",
+      "number": 256,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "qtawesome",
+        "url": "https://github.com/spyder-ide/qtawesome",
+        "owner": {
+          "login": "spyder-ide",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1284937?v=4",
+          "url": "https://github.com/spyder-ide"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOJqOIXc58G_8p",
+      "closed": false,
+      "title": "Writting unittests",
+      "createdAt": "2024-01-15T15:01:39Z",
+      "url": "https://github.com/o-murphy/pydfuutil/issues/5",
+      "number": 5,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "pydfuutil",
+        "url": "https://github.com/o-murphy/pydfuutil",
+        "owner": {
+          "login": "o-murphy",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
+          "url": "https://github.com/o-murphy"
+        }
+      }
+    },
+    {
+      "id": "I_kwDOEEI1tc58FlKx",
+      "closed": false,
+      "title": "Add pyinstaller hook for celpy",
+      "createdAt": "2024-01-15T11:28:49Z",
+      "url": "https://github.com/cloud-custodian/cel-python/issues/52",
+      "number": 52,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "cel-python",
+        "url": "https://github.com/cloud-custodian/cel-python",
+        "owner": {
+          "login": "cloud-custodian",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38811484?v=4",
+          "url": "https://github.com/cloud-custodian"
+        }
+      }
+    },
     {
       "id": "I_kwDOKFJzkM57fcux",
       "closed": true,
@@ -32,14 +258,14 @@
       "closed": false,
       "title": "Refactoring to got a calculation of adjustment relative to sight zero line",
       "createdAt": "2023-12-29T10:44:26Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/46",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/46",
       "number": 46,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -52,14 +278,14 @@
       "closed": true,
       "title": "until_distance() in _trajectory() have to be replaced with until_distance, cause of property",
       "createdAt": "2023-12-21T12:45:26Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/41",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/41",
       "number": 41,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -129,7 +355,7 @@
     },
     {
       "id": "I_kwDOEVbSas54NrUY",
-      "closed": false,
+      "closed": true,
       "title": "[enchantment] WebApp based date-picker variant  ",
       "createdAt": "2023-11-29T15:29:45Z",
       "url": "https://github.com/noXplode/aiogram_calendar/issues/17",
@@ -258,18 +484,18 @@
       "closed": true,
       "title": "archer-ar612-cfg-v1.0.0b3",
       "createdAt": "2023-11-12T11:59:28Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/27",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/27",
       "number": 27,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -396,7 +622,7 @@
       "closed": false,
       "title": "Додати до репо шаблон issue",
       "createdAt": "2023-10-28T10:50:08Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/25",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/25",
       "number": 25,
       "assignees": {
         "nodes": [
@@ -409,11 +635,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -448,7 +674,7 @@
       "closed": true,
       "title": "Прилад повністю зависає якщо щось із периферії на I2С не працює",
       "createdAt": "2023-10-27T13:28:35Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/24",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/24",
       "number": 24,
       "assignees": {
         "nodes": [
@@ -461,11 +687,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -474,7 +700,7 @@
       "closed": true,
       "title": "Вияснити структуру команди для налаштувань RTC",
       "createdAt": "2023-10-27T13:26:24Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/23",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/23",
       "number": 23,
       "assignees": {
         "nodes": [
@@ -487,11 +713,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -500,7 +726,7 @@
       "closed": false,
       "title": "Реалізувати в налаштуваннях вибір режиму зуму",
       "createdAt": "2023-10-27T13:23:53Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/22",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/22",
       "number": 22,
       "assignees": {
         "nodes": [
@@ -523,11 +749,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -536,7 +762,7 @@
       "closed": false,
       "title": "Занадто яскраве задвоєння пікселів кольорових сіток",
       "createdAt": "2023-10-27T13:21:57Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/21",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/21",
       "number": 21,
       "assignees": {
         "nodes": [
@@ -549,11 +775,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -562,18 +788,18 @@
       "closed": false,
       "title": "Додати в налаштування приладу зміну коефіцієнта температурної чутливості пороху",
       "createdAt": "2023-10-27T13:19:43Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/20",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/20",
       "number": 20,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -582,7 +808,7 @@
       "closed": true,
       "title": "Додати підтримку всіх використовуваних нами метеостанцій",
       "createdAt": "2023-10-27T13:10:22Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/19",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/19",
       "number": 19,
       "assignees": {
         "nodes": [
@@ -605,11 +831,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -618,7 +844,7 @@
       "closed": true,
       "title": "Щодо зависання приладів",
       "createdAt": "2023-10-27T11:01:53Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/16",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/16",
       "number": 16,
       "assignees": {
         "nodes": [
@@ -641,11 +867,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -680,7 +906,7 @@
       "closed": false,
       "title": "Clicks in a7p proto and profiles migrations",
       "createdAt": "2023-10-27T08:17:06Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/14",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/14",
       "number": 14,
       "assignees": {
         "nodes": [
@@ -703,11 +929,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -716,7 +942,7 @@
       "closed": true,
       "title": "Device resets the settings on random turning on",
       "createdAt": "2023-10-27T07:26:31Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/13",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/13",
       "number": 13,
       "assignees": {
         "nodes": [
@@ -734,11 +960,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -747,7 +973,7 @@
       "closed": true,
       "title": "Can the factory fw load the default core's serial number to the info?",
       "createdAt": "2023-10-26T11:37:07Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/9",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/9",
       "number": 9,
       "assignees": {
         "nodes": [
@@ -760,11 +986,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -773,7 +999,7 @@
       "closed": false,
       "title": "Приховати юстування LRF",
       "createdAt": "2023-10-26T10:40:52Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/8",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/8",
       "number": 8,
       "assignees": {
         "nodes": [
@@ -786,11 +1012,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -799,7 +1025,7 @@
       "closed": false,
       "title": "Збільшити швидкість зміни дистанції",
       "createdAt": "2023-10-26T10:38:05Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/7",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/7",
       "number": 7,
       "assignees": {
         "nodes": [
@@ -812,11 +1038,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -825,7 +1051,7 @@
       "closed": false,
       "title": "Додати в налаштування приладу поправку датчика температури",
       "createdAt": "2023-10-26T10:34:27Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/6",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/6",
       "number": 6,
       "assignees": {
         "nodes": [
@@ -838,11 +1064,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -851,7 +1077,7 @@
       "closed": false,
       "title": "Make the change of time and date in the settings cyclic",
       "createdAt": "2023-10-26T10:33:00Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/5",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/5",
       "number": 5,
       "assignees": {
         "nodes": [
@@ -864,20 +1090,20 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
     {
       "id": "I_kwDOKlRnMc51A9bY",
-      "closed": false,
+      "closed": true,
       "title": "Cross still moving up after zeroing",
       "createdAt": "2023-10-26T10:18:01Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/4",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/4",
       "number": 4,
       "assignees": {
         "nodes": [
@@ -900,11 +1126,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -933,7 +1159,7 @@
       "closed": true,
       "title": "Automatic exit from USB mode",
       "createdAt": "2023-10-26T09:49:21Z",
-      "url": "https://github.com/JAremko/AR612-issues/issues/3",
+      "url": "https://github.com/o-murphy-tvt/AR612-issues/issues/3",
       "number": 3,
       "assignees": {
         "nodes": [
@@ -946,11 +1172,11 @@
       },
       "repository": {
         "name": "AR612-issues",
-        "url": "https://github.com/JAremko/AR612-issues",
+        "url": "https://github.com/o-murphy-tvt/AR612-issues",
         "owner": {
-          "login": "JAremko",
-          "avatarUrl": "https://avatars.githubusercontent.com/u/1898905?u=b2553fd4f90517d27839c1c9a5a2df927c93730f&v=4",
-          "url": "https://github.com/JAremko"
+          "login": "o-murphy-tvt",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/152847844?v=4",
+          "url": "https://github.com/o-murphy-tvt"
         }
       }
     },
@@ -959,14 +1185,14 @@
       "closed": false,
       "title": "Add optional support of the Coriolis force",
       "createdAt": "2023-10-18T15:03:12Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/36",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/36",
       "number": 36,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -979,14 +1205,14 @@
       "closed": false,
       "title": "Refactor the unit.py module to make it simplier and flexible",
       "createdAt": "2023-10-18T15:02:05Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/35",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/35",
       "number": 35,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -999,14 +1225,14 @@
       "closed": true,
       "title": "Add the metods to take in account on other target's altitude onto plot",
       "createdAt": "2023-10-18T13:47:07Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/34",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/34",
       "number": 34,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1019,14 +1245,14 @@
       "closed": false,
       "title": "Add optional backend for optimized calculations using pandas, numpy, etc",
       "createdAt": "2023-10-18T13:44:31Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/33",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/33",
       "number": 33,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1039,14 +1265,14 @@
       "closed": false,
       "title": "Find the way to provide more efficient methods of calculation",
       "createdAt": "2023-10-18T13:42:40Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/32",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/32",
       "number": 32,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1059,14 +1285,14 @@
       "closed": true,
       "title": "Update the README.md for the packages",
       "createdAt": "2023-10-18T13:26:35Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/31",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/31",
       "number": 31,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1079,14 +1305,14 @@
       "closed": false,
       "title": "Create a full readable documentation",
       "createdAt": "2023-10-18T13:25:35Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/30",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/30",
       "number": 30,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1099,14 +1325,14 @@
       "closed": true,
       "title": "Add an optional pure or cython based package installation",
       "createdAt": "2023-10-17T16:46:01Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/27",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/27",
       "number": 27,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1119,14 +1345,14 @@
       "closed": true,
       "title": "Update the library to python 3.12",
       "createdAt": "2023-10-17T16:39:40Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/26",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/26",
       "number": 26,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1196,7 +1422,7 @@
     },
     {
       "id": "I_kwDOJoVqls5z9vIV",
-      "closed": false,
+      "closed": true,
       "title": "Add the powder sensitivity calculator to the app",
       "createdAt": "2023-10-16T15:47:38Z",
       "url": "https://github.com/JAremko/ArcherBC2/issues/39",
@@ -1385,14 +1611,14 @@
       "closed": true,
       "title": "Zero given elevation unittests fails",
       "createdAt": "2023-10-05T10:23:00Z",
-      "url": "https://github.com/o-murphy/py_ballisticcalc/issues/9",
+      "url": "https://github.com/o-murphy/py-ballisticcalc/issues/9",
       "number": 9,
       "assignees": {
         "nodes": []
       },
       "repository": {
-        "name": "py_ballisticcalc",
-        "url": "https://github.com/o-murphy/py_ballisticcalc",
+        "name": "py-ballisticcalc",
+        "url": "https://github.com/o-murphy/py-ballisticcalc",
         "owner": {
           "login": "o-murphy",
           "avatarUrl": "https://avatars.githubusercontent.com/u/73843436?v=4",
@@ -1722,7 +1948,7 @@
     },
     {
       "id": "I_kwDOJoVqls5tdOqY",
-      "closed": false,
+      "closed": true,
       "title": "[PROPOSAL] CDM export/import/editing",
       "createdAt": "2023-08-04T09:16:58Z",
       "url": "https://github.com/JAremko/ArcherBC2/issues/19",
@@ -1921,6 +2147,6 @@
       }
     }
   ],
-  "open": 34,
-  "totalCount": 86
+  "open": 36,
+  "totalCount": 97
 }
